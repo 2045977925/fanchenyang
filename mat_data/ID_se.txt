@@ -1,0 +1,4192 @@
+01 cerebrovascular accident
+02 rash
+03 ptosis
+04 paresthesia
+05 bronchospasm
+06 respiratory failure
+07 nasal congestion
+08 lethargy
+09 myasthenia
+010 heart failure
+011 congestive heart failure
+012 hypersensitivity
+013 heart block
+014 confusion
+015 ataxia
+016 cerebral ischemia
+017 hypoglycemia
+018 dizziness
+019 pruritus
+020 arrest
+021 chest pain
+022 dyspnea
+023 blepharoconjunctivitis
+024 myasthenia gravis
+025 visual disturbances
+026 arrhythmia
+027 iridocyclitis
+028 asthenia
+029 urticaria
+030 diarrhea
+031 ischemia
+032 generalized rash
+033 palpitations
+034 stinging
+035 pain
+036 diplopia
+037 nausea
+038 syncope
+039 eyelid ptosis
+040 alopecia
+041 bradycardia
+042 impotence
+043 hypotension
+044 keratitis
+045 headache
+046 erythema
+047 contact dermatitis
+048 atopic dermatitis
+049 angioedema
+050 skin edema
+051 Fetal Disorders
+052 swelling of the lips
+053 eyelid edema
+054 dry skin
+055 atopic
+056 eye pain
+057 keratoconjunctivitis
+058 edema
+059 skin discoloration
+060 skin irritation
+061 discomfort
+062 lip
+063 convulsions
+064 swelling
+065 dermatitis
+066 hepatitis
+067 papilledema
+068 irritant dermatitis
+069 seborrhea
+070 face edema
+071 desquamation
+072 herpes
+073 herpes simplex
+074 eczema
+075 conjunctivitis
+076 vesicular rash
+077 back pain
+078 ear pain
+079 ventricular extrasystoles
+080 bilirubinemia
+081 fever
+082 adenocarcinoma
+083 decreased lacrimation
+084 rosacea
+085 hyperhidrosis
+086 urinary tract infection
+087 hyperpyrexia
+088 numbness of tongue
+089 hypertension
+090 chronic insomnia
+091 dry mouth
+092 anemia
+093 jaundice
+094 enuresis
+095 taste loss
+096 gastroenteritis
+097 allergic contact dermatitis
+098 reflux
+099 folliculitis
+0100 metallic taste
+0101 urinary retention
+0102 Pain in extremity
+0103 decreased libido
+0104 extrasystoles
+0105 vasovagal reaction
+0106 extrapyramidal symptoms
+0107 gastroenteritis viral
+0108 thirst
+0109 tumor
+0110 electrocardiogram QRS complex
+0111 flushing
+0112 melanoma
+0113 tooth infection
+0114 leukopenia
+0115 nocturia
+0116 numbness
+0117 pneumonia
+0118 sinusitis
+0119 gingival recession
+0120 blurred vision
+0121 cellulitis
+0122 chills
+0123 purpura
+0124 neck pain
+0125 transient insomnia
+0126 somnolence
+0127 myalgia
+0128 disturbance in attention
+0129 increased appetite
+0130 dry throat
+0131 addiction
+0132 Immune System Disorders
+0133 lip blister
+0134 cold sweat
+0135 nightmares
+0136 Nasopharyngitis
+0137 onychomycosis
+0138 pharyngitis
+0139 hemoglobinuria
+0140 rhinorrhea
+0141 weakness
+0142 hearing loss
+0143 respiratory tract infection
+0144 hypokalemia
+0145 eye infection
+0146 vertigo
+0147 asthma
+0148 tinnitus
+0149 AV block
+0150 bronchitis
+0151 polyps
+0152 seizures
+0153 pallor
+0154 lung adenocarcinoma stage I
+0155 enlargement
+0156 dysuria
+0157 paralysis
+0158 disorientation
+0159 Eye Disorders
+0160 abnormal gait
+0161 tremor
+0162 Gastrointestinal Disorders
+0163 viral infection
+0164 Urinary System Disorders
+0165 hyperkalemia
+0166 weight gain
+0167 constipation
+0168 marrow depression
+0169 dyskinesia
+0170 Connective Tissue Disorders
+0171 Hepatobiliary Disorders
+0172 laryngitis
+0173 aphthous stomatitis
+0174 stomatitis
+0175 neutrophil count decreased
+0176 nervousness
+0177 nasopharynx
+0178 blood glucose increased
+0179 vascular disease
+0180 SGPT increased
+0181 Nervous System Disorders
+0182 sickness
+0183 agranulocytosis
+0184 sensation of heaviness
+0185 Mediastinal Disorders
+0186 flu
+0187 bitter taste
+0188 heart disease
+0189 gynecomastia
+0190 tachycardia
+0191 lacrimation
+0192 dyspepsia
+0193 Infestations
+0194 dysmenorrhea
+0195 glucose increased
+0196 zoster
+0197 peripheral edema
+0198 increased mood
+0199 abnormal dreams
+0200 Thoracic
+0201 Breast cyst
+0202 Breast Disorders
+0203 anorexia
+0204 tardive dyskinesia
+0205 migraine
+0206 cramps
+0207 thrombocythemia
+0208 application site reaction
+0209 motion sickness
+0210 decreased appetite
+0211 redness
+0212 blepharospasm
+0213 fungal infection
+0214 drowsiness
+0215 infection
+0216 sinus congestion
+0217 hypermagnesemia
+0218 testicular swelling
+0219 galactorrhea
+0220 hematoma
+0221 blisters
+0222 hot flushes
+0223 lightheadedness
+0224 cough
+0225 thrombocytopenia
+0226 exacerbation of asthma
+0227 sleep paralysis
+0228 wheezing
+0229 sweating
+0230 hallucinations
+0231 abdominal pain
+0232 lung adenocarcinoma
+0233 elevated transaminases
+0234 pharyngolaryngeal pain
+0235 adjustment disorder
+0236 QRS complex
+0237 taste perversion
+0238 vomiting
+0239 Psychiatric Disorders
+0240 bloody stools
+0241 cyst
+0242 SIADH
+0243 rales
+0244 tenosynovitis
+0245 Lower Respiratory Tract Infections
+0246 thinking abnormal
+0247 joint range of motion decreased
+0248 suicide
+0249 arthralgia
+0250 elevated blood pressure
+0251 upper respiratory tract infection
+0252 sedation
+0253 red eyes
+0254 eosinophilia
+0255 dry lips
+0256 lymphadenopathy
+0257 renal impairment
+0258 fatigue
+0259 splenomegaly
+0260 postoperative pain
+0261 acne
+0262 esophagitis
+0263 Musculoskeletal System Disorders
+0264 twitching
+0265 mucous membrane
+0266 cardiovascular disease
+0267 urinary frequency
+0268 tenderness
+0269 renal failure
+0270 graft rejection
+0271 hypoproteinemia
+0272 aplastic anemia
+0273 effusion
+0274 cachexia
+0275 macular edema
+0276 emotional disturbances
+0277 Blood alkaline phosphatase increased
+0278 myasthenic syndrome
+0279 vitreous disorder
+0280 distention
+0281 decreased creatinine
+0282 abnormal vision
+0283 Pneumocystis
+0284 photosensitivity
+0285 abnormal liver function
+0286 incontinence
+0287 ADHD
+0288 postoperative complications
+0289 hypophosphatemia
+0290 pleural effusion
+0291 ascites
+0292 rigors
+0293 flatulence
+0294 sarcoma
+0295 hyperglycemia
+0296 night sweats
+0297 detachment
+0298 hypocalcemia
+0299 hypomagnesemia
+0300 pleural
+0301 diabetes
+0302 oral moniliasis
+0303 gastrointestinal hemorrhage
+0304 glucose decreased
+0305 eye hemorrhage
+0306 moniliasis
+0307 blood in urine
+0308 productive cough
+0309 anxiety
+0310 wound infections
+0311 postoperative wound infection
+0312 infertility
+0313 retinal detachment
+0314 peripheral neuropathy
+0315 blindness
+0316 malaise
+0317 weight loss
+0318 eructation
+0319 agitation
+0320 deafness
+0321 tongue disorder
+0322 hematuria
+0323 respiratory disorder
+0324 musculoskeletal pain
+0325 mouth ulceration
+0326 lower extremity edema
+0327 ulcer
+0328 acute renal failure
+0329 cholangitis
+0330 abdominal pain upper
+0331 glaucoma
+0332 photosensitivity reaction
+0333 blood glucose decreased
+0334 esophageal candidiasis
+0335 phlebitis
+0336 pancytopenia
+0337 dysphagia
+0338 myoclonus
+0339 thrombophlebitis
+0340 hypertonia
+0341 leukocytosis
+0342 pancreatitis
+0343 ventricular arrhythmia
+0344 creatine phosphokinase increased
+0345 amnesia
+0346 coma
+0347 wound dehiscence
+0348 floaters
+0349 sore throat
+0350 hemorrhage
+0351 gastritis
+0352 neutropenia
+0353 Amblyopia
+0354 vasodilation
+0355 dehydration
+0356 creatinine increased
+0357 abdominal distention
+0358 lactic dehydrogenase increased
+0359 fecal incontinence
+0360 teratogenicity
+0361 insomnia
+0362 sepsis
+0363 cytopenia
+0364 esophageal
+0365 psychosis
+0366 fertility
+0367 alkaline phosphatase increased
+0368 deep thrombophlebitis
+0369 neuropathy
+0370 elevated serum creatinine
+0371 increased sweating
+0372 mydriasis
+0373 punctate keratitis
+0374 increased intraocular pressure
+0375 albuminuria
+0376 meningismus
+0377 drug fever
+0378 neck rigidity
+0379 apnea
+0380 azotemia
+0381 sinus arrest
+0382 psoriasis
+0383 epididymitis
+0384 muscle weakness
+0385 thyroid cancer
+0386 hemolytic anemia
+0387 fibrosing alveolitis
+0388 solar dermatitis
+0389 renal insufficiency
+0390 ARDS
+0391 electromechanical dissociation
+0392 cancer
+0393 cardiogenic shock
+0394 nodules
+0395 visual field defect
+0396 abnormal involuntary movements
+0397 gastrointestinal reactions
+0398 paroxysmal ventricular tachycardia
+0399 bundle branch block
+0400 atrial fibrillation
+0401 eosinophilic pneumonia
+0402 pigmentation
+0403 demyelinating polyneuropathy
+0404 skin cancer
+0405 injection site reaction
+0406 incoordination
+0407 necrosis
+0408 sinus bradycardia
+0409 salivation
+0410 optic neuropathy
+0411 optic neuritis
+0412 cholestatic hepatitis
+0413 macular degeneration
+0414 pleurisy
+0415 akinesia
+0416 nodal arrhythmia
+0417 bronchiolitis
+0418 bronchiolitis obliterans
+0419 abnormal renal function
+0420 pulmonary edema
+0421 fibrosis
+0422 pulmonary fibrosis
+0423 inflammation
+0424 hepatomegaly
+0425 myopathy
+0426 hemoptysis
+0427 polyserositis
+0428 skin pigmentation
+0429 bradykinesia
+0430 lung disorder
+0431 polymorphic ventricular tachycardia
+0432 rhabdomyolysis
+0433 vasculitis
+0434 acquired keratoderma
+0435 alveolitis
+0436 photophobia
+0437 skin disorder
+0438 thrombosis
+0439 involuntary movements
+0440 anaphylactoid reactions
+0441 keratoderma
+0442 pulmonary infiltrates
+0443 lens
+0444 cirrhosis
+0445 liver disease
+0446 SGOT increased
+0447 lens opacities
+0448 pulmonary toxicity
+0449 Cardiovascular Abnormalities
+0450 hypothyroidism
+0451 liver function tests abnormal
+0452 organizing pneumonia
+0453 drug eruption
+0454 spontaneous ecchymosis
+0455 bronchiolitis obliterans organizing pneumonia
+0456 torsade de pointes
+0457 Cognitive Disorder
+0458 ecchymosis
+0459 delirium
+0460 QT prolonged
+0461 polyneuropathy
+0462 neuritis
+0463 cardiac conduction abnormalities
+0464 pustular psoriasis
+0465 erythema multiforme
+0466 vein thrombosis
+0467 toxic epidermal necrolysis
+0468 exfoliative dermatitis
+0469 hyperthyroidism
+0470 thyroid dysfunction
+0471 thyroid nodules
+0472 eruptions
+0473 pseudotumor cerebri
+0474 pseudotumor
+0475 corneal degeneration
+0476 sleep disturbances
+0477 second degree AV block
+0478 granuloma
+0479 hypoxia
+0480 pulseless
+0481 sleep disorder
+0482 epidermal necrolysis
+0483 shock
+0484 dry eyes
+0485 corneal deposits
+0486 onycholysis
+0487 skin necrosis
+0488 dissociation
+0489 goiter
+0490 bundle branch block left
+0491 WBC Decreased
+0492 uveitis
+0493 synovitis
+0494 chorioretinitis
+0495 abnormal sensation in eye
+0496 postural hypotension
+0497 chest discomfort
+0498 choroiditis
+0499 cervical lymphadenopathy
+0500 anterior uveitis
+0501 axillary lymph node enlargement
+0502 nasal irritation
+0503 throat irritation
+0504 sputum increased
+0505 apathy
+0506 tooth disorder
+0507 hoarseness
+0508 impaired concentration
+0509 jaw pain
+0510 withdrawal syndrome
+0511 menstrual disorder
+0512 aphasia
+0513 emotional lability
+0514 irritability
+0515 tingling
+0516 watery eyes
+0517 sneezing
+0518 drug dependence
+0519 nasal ulcer
+0520 smokers
+0521 drug abuse
+0522 rhinitis
+0523 epistaxis
+0524 hiccup
+0525 chest tightness
+0526 eye irritation
+0527 dependence
+0528 bleeding diathesis
+0529 myocardial infarction
+0530 upper GI bleeding
+0531 fulminant hepatitis
+0532 hepatic failure
+0533 colitis
+0534 Idiopathic thrombocytopenic purpura
+0535 nephropathy
+0536 interstitial pneumonitis
+0537 asphyxia
+0538 acute respiratory failure
+0539 Urine leukocytes
+0540 vaginal moniliasis
+0541 Interactions
+0542 hypersensitivity vasculitis
+0543 bloody diarrhea
+0544 cutaneous candidiasis
+0545 disseminated intravascular coagulation
+0546 anaphylaxis
+0547 leukorrhea
+0548 peptic ulcer
+0549 choking sensation
+0550 Clotting Disorders
+0551 laryngeal edema
+0552 acute hepatitis
+0553 Diaper rash
+0554 cholestasis
+0555 ileus
+0556 pseudomembranous colitis
+0557 hyperkinesia
+0558 disability
+0559 vaginitis
+0560 thrombocytopenic purpura
+0561 erythema nodosum
+0562 hemorrhagic colitis
+0563 urine red
+0564 toxic nephropathy
+0565 amylase increased
+0566 infarction
+0567 enterocolitis
+0568 microscopic hematuria
+0569 maculopapular rash
+0570 asthmatic attack
+0571 abnormal stools
+0572 loss of consciousness
+0573 serum sickness
+0574 melena
+0575 extrapyramidal syndrome
+0576 cholecystitis
+0577 pathological fracture
+0578 hyperacusis
+0579 increased salivation
+0580 delusions
+0581 transitory deafness
+0582 myositis
+0583 bigeminy
+0584 substernal chest pain
+0585 bone pain
+0586 hostility
+0587 blepharitis
+0588 abnormality of accommodation
+0589 als
+0590 gum hemorrhage
+0591 urinary urgency
+0592 intestinal obstruction
+0593 cough increased
+0594 otitis media
+0595 metrorrhagia
+0596 psychotic depression
+0597 menorrhagia
+0598 paranoid reaction
+0599 hyponatremia
+0600 dystonia
+0601 kidney calculus
+0602 tongue edema
+0603 bursitis
+0604 ulcerative stomatitis
+0605 atrial arrhythmia
+0606 manic reaction
+0607 cerebral embolism
+0608 skin ulcer
+0609 hyperemia
+0610 osteoporotic fracture
+0611 breast engorgement
+0612 akathisia
+0613 stupor
+0614 manic
+0615 nystagmus
+0616 pulmonary embolism
+0617 salivary gland enlargement
+0618 Bullous dermatitis
+0619 pneumothorax
+0620 healing abnormal
+0621 hypotonia
+0622 neurosis
+0623 hypesthesia
+0624 glossitis
+0625 cystitis
+0626 fasting
+0627 gout
+0628 libido increased
+0629 tongue discoloration
+0630 osteoporosis
+0631 cardiomegaly
+0632 lacrimation disorder
+0633 rigidity
+0634 vascular headache
+0635 breast enlargement
+0636 grand mal
+0637 reflexes increased
+0638 petechiae
+0639 abdomen enlarged
+0640 arthrosis
+0641 urethritis
+0642 embolus
+0643 polyuria
+0644 abdominal syndrome acute
+0645 abnormal ejaculation
+0646 lymphocytosis
+0647 dysarthria
+0648 skin hypertrophy
+0649 hypercholesterolemia
+0650 hypertriglyceridemia
+0651 dementia
+0652 amenorrhea
+0653 parosmia
+0654 euphoria
+0655 otitis
+0656 partial transitory deafness
+0657 obstruction
+0658 angina
+0659 depersonalization
+0660 clonus
+0661 breast pain
+0662 acid phosphatase increased
+0663 urinary incontinence
+0664 hypokinesia
+0665 left heart failure
+0666 arthritis
+0667 dyspnea exertional
+0668 respiratory distress
+0669 aches
+0670 retroperitoneal fibrosis
+0671 death
+0672 personality disorder
+0673 gangrene
+0674 memory impairment
+0675 Raynaud
+0676 cyanosis
+0677 gastric pain
+0678 low cardiac output
+0679 laryngospasm
+0680 catatonic
+0681 complete atrioventricular block
+0682 arterial insufficiency
+0683 PR interval
+0684 sexual dysfunction
+0685 stomach
+0686 mental depression
+0687 peripheral coldness
+0688 memory loss
+0689 status asthmaticus
+0690 skin lesion
+0691 exacerbation of psoriasis
+0692 eye itching
+0693 nonthrombocytopenic purpura
+0694 precordial chest pain
+0695 claudication
+0696 heartburn
+0697 decrease or loss of hearing
+0698 vivid dreams
+0699 circulatory disorders
+0700 bronchoconstriction
+0701 feeling of warmth
+0702 colicky
+0703 borborygmi
+0704 miosis
+0705 abdominal cramps
+0706 colic
+0707 sensations of heat
+0708 peeling
+0709 epigastric pain
+0710 gastric ulcer
+0711 duodenal ulcer
+0712 Abnormal Liver Enzymes
+0713 elevated liver enzymes
+0714 deficiency anemia
+0715 neuralgia
+0716 interstitial lung disease
+0717 varicose vein
+0718 gingivitis
+0719 Endocrine Disorders
+0720 nail disorder
+0721 hair discoloration
+0722 acute hepatic necrosis
+0723 hyperlipidemia
+0724 osteonecrosis
+0725 hernia
+0726 opportunistic infections
+0727 iron deficiency
+0728 iron deficiency anemia
+0729 ESS
+0730 cataract
+0731 fungal dermatitis
+0732 juvenile rheumatoid arthritis
+0733 pelvic pain
+0734 lymphoproliferative disorders
+0735 skin nodule
+0736 subcutaneous nodule
+0737 kidney vasculitis
+0738 cholelithiasis
+0739 prostate
+0740 necrotizing vasculitis
+0741 hepatic necrosis
+0742 abscess
+0743 leg cramps
+0744 extravasation
+0745 metastatic colorectal cancer
+0746 supraventricular tachycardia
+0747 fibrillation
+0748 sinus tachycardia
+0749 febrile neutropenia
+0750 periarteritis nodosa
+0751 colon cancer
+0752 depressed mood
+0753 vascular stenoses
+0754 increase in urinary output
+0755 artery stenosis
+0756 renal artery stenosis
+0757 hypertensive
+0758 cerebrovascular disorder
+0759 polyneuritis
+0760 eosinophilic pneumonitis
+0761 pemphigoid
+0762 ischemic stroke
+0763 abdominal discomfort
+0764 pemphigus
+0765 acute liver failure
+0766 enanthema
+0767 liver damage
+0768 cholestatic jaundice
+0769 elevated erythrocyte sedimentation rate
+0770 positive ANA
+0771 proteinuria
+0772 rectal disorder
+0773 Autonomic Nervous System Disorders
+0774 feeling drunk
+0775 breast tenderness
+0776 Genetic Disorders
+0777 cleft lip
+0778 aggressive
+0779 leg pain
+0780 Ovarian Hyperstimulation
+0781 gallbladder disease
+0782 septal defect
+0783 genital pruritus
+0784 transient ischemic attack
+0785 perineal pain
+0786 vaginal discharge
+0787 cleft palate
+0788 hand swelling
+0789 forgetful
+0790 hemangiomas
+0791 dyspareunia
+0792 melasma
+0793 xerophthalmia
+0794 vaginal dryness
+0795 tension
+0796 cerebral thrombosis
+0797 Perineal Pain Female
+0798 ovarian cyst
+0799 uterine spasm
+0800 vaginal bleeding
+0801 speech disorder
+0802 feeling abnormal
+0803 ovarian cancer
+0804 drunk
+0805 congenital heart disease
+0806 vaginal irritation
+0807 bloating
+0808 hiatal hernia
+0809 porphyria
+0810 chorea
+0811 hirsutism
+0812 cervical erosion
+0813 embolism
+0814 choking
+0815 worry
+0816 spasm
+0817 swollen tongue
+0818 Decreased carbohydrate tolerance
+0819 breast carcinoma
+0820 hyperventilation
+0821 acute pancreatitis
+0822 slurred
+0823 breast discharge
+0824 ventricular septal defect
+0825 difficulty in walking
+0826 influenzalike symptoms
+0827 suicidal ideation
+0828 genital moniliasis
+0829 premenstrual tension
+0830 ovarian failure
+0831 spontaneous abortion
+0832 elevated liver function tests
+0833 Ovarian Hyperstimulation Syndrome
+0834 crying abnormal
+0835 toothache
+0836 tightness of the throat
+0837 endometrial cancer
+0838 pms
+0839 hemorrhagic eruption
+0840 water retention
+0841 sulfobromophthalein retention
+0842 tightness of skin
+0843 warts
+0844 uterine fibroids
+0845 patent ductus arteriosus
+0846 parathyroid
+0847 oral disease
+0848 osteonecrosis of the jaw
+0849 secondary hyperparathyroidism
+0850 immediate hypersensitivity
+0851 hyperparathyroidism
+0852 ulcerative pharyngitis
+0853 Local Reactions
+0854 hyperphosphatemia
+0855 systemic lupus erythematosus
+0856 gastrointestinal symptoms
+0857 paranoia
+0858 myopia
+0859 lupus
+0860 gum hypertrophy
+0861 upset stomach
+0862 upset
+0863 night terrors
+0864 stridor
+0865 eosinophilic pneumonia acute
+0866 ill feeling
+0867 hyperproteinemia
+0868 decreased hemoglobin
+0869 HIV infection
+0870 hemorrhagic gastritis
+0871 prolonged prothrombin time
+0872 post nasal drip
+0873 rash macular
+0874 ECG abnormal
+0875 electrolyte abnormality
+0876 prothrombin decreased
+0877 periorbital edema
+0878 sarcoidosis
+0879 vestibular disorder
+0880 catheter related infections
+0881 Dependent edema
+0882 hepatosplenomegaly
+0883 neutrophilia
+0884 lipoma
+0885 tubular
+0886 flank pain
+0887 cheilitis
+0888 Intraoperative Floppy Iris Syndrome
+0889 gonadotropins decreased
+0890 paraplegia
+0891 abdominal tenderness
+0892 creatinine clearance decreased
+0893 esophageal ulcer
+0894 adrenal insufficiency
+0895 tenesmus
+0896 mucositis
+0897 balanoposthitis
+0898 NPN increased
+0899 micturition disorder
+0900 ejection fraction decreased
+0901 hyperuricemia
+0902 pruritic rash
+0903 ventricular hypertrophy
+0904 decreased platelet
+0905 pseudomonas aeruginosa infection
+0906 atelectasis
+0907 dry cough
+0908 nutritional deficiencies
+0909 BUN increased
+0910 encephalopathy
+0911 supraventricular extrasystoles
+0912 vitamin K deficiency
+0913 fistula
+0914 stiffness
+0915 hemolytic uremic syndrome
+0916 nephritis
+0917 urinary obstruction
+0918 prolonged clotting time
+0919 bacteremia
+0920 dysphonia
+0921 metabolic acidosis
+0922 myelodysplastic syndrome
+0923 Rectal Pain
+0924 hypercalcemia
+0925 Stevens Johnson Syndrome
+0926 absent reflexes
+0927 urine abnormality
+0928 Chest wall pain
+0929 biliary sludge
+0930 Tooth discoloration
+0931 deep vein thrombosis
+0932 flutter
+0933 potassium deficiency
+0934 interstitial nephritis
+0935 thrombotic thrombocytopenic purpura
+0936 myeloid leukemia
+0937 atherosclerotic vascular disease
+0938 hypoalbuminemia
+0939 Anemia aggravated
+0940 abnormal platelets
+0941 hemiparesis
+0942 leukemia
+0943 pulmonary hypertension
+0944 SARS
+0945 sciatica
+0946 AML
+0947 abnormal electroencephalogram
+0948 odynophagia
+0949 pain aggravated
+0950 generalized edema
+0951 renal insufficiency aggravated
+0952 retching
+0953 aggravated bilirubinemia
+0954 respiratory arrest
+0955 lipase increased
+0956 furunculosis
+0957 respiratory insufficiency
+0958 aortic valve sclerosis
+0959 abnormal blood gases
+0960 meningitis
+0961 atrial flutter
+0962 cold sores
+0963 uremic syndrome
+0964 altered saliva
+0965 Metabolic Disorders
+0966 ventricular tachycardia
+0967 aplasia
+0968 altered mental status
+0969 diverticulitis
+0970 reflexes decreased
+0971 liver tenderness
+0972 mitral valve disorder
+0973 leg edema
+0974 mononeuritis
+0975 fasciitis
+0976 restless legs
+0977 sudden death
+0978 renal tubular acidosis
+0979 acidosis
+0980 laboratory test abnormal
+0981 solid tumors
+0982 vaginal hemorrhage
+0983 CMV infection
+0984 rash erythematous
+0985 follicular rash
+0986 asterixis
+0987 hypernatremia
+0988 Eye Abnormality
+0989 limb heaviness
+0990 monoclonal gammopathy
+0991 hand tremor
+0992 gammopathy
+0993 immunodeficiency
+0994 loss of appetite
+0995 essential tremor
+0996 cerebellar dysfunction
+0997 menstrual irregularities
+0998 bladder cancer
+0999 unsteady gait
+01000 vitamin B12 deficiency
+01001 jitteriness
+01002 neurologic symptoms
+01003 Abdominal distension gaseous
+01004 localized numbness
+01005 hyperthermia
+01006 paralytic ileus
+01007 excitement
+01008 peculiar taste
+01009 hypomania
+01010 malignant syndrome
+01011 neuroleptic malignant
+01012 parotid swelling
+01013 excessive appetite
+01014 epigastric distress
+01015 adenitis
+01016 black tongue
+01017 panic
+01018 bullous eruption
+01019 hematemesis
+01020 retroperitoneal hemorrhage
+01021 arterial thrombosis
+01022 aortic stenosis
+01023 unstable angina
+01024 myocardial ischemia
+01025 coronary thrombosis
+01026 intracranial hemorrhage
+01027 suffering
+01028 coronary occlusion
+01029 acute myocardial infarction
+01030 gastrointestinal pain
+01031 erythrocytopenia
+01032 hypoglycemic episodes
+01033 allergic skin reaction
+01034 cutaneous hypersensitivity
+01035 Hepatic porphyria
+01036 hepatic impairment
+01037 porphyria cutanea tarda
+01038 hypoglycemic reaction
+01039 photopsia
+01040 Hematologic Disorders
+01041 rectal hemorrhage
+01042 nephrosis
+01043 pseudoporphyria
+01044 duodenitis
+01045 color blindness
+01046 brain edema
+01047 adrenal cortex insufficiency
+01048 diabetes insipidus
+01049 hemorrhagic cystitis
+01050 encephalitis
+01051 scleritis
+01052 intestinal ulcer
+01053 periodontitis
+01054 chromatopsia
+01055 peritonitis
+01056 hydronephrosis
+01057 multiorgan failure
+01058 otitis externa
+01059 intestinal perforation
+01060 decreased visual acuity
+01061 kidney pain
+01062 decreased renal function
+01063 atrophy
+01064 retinitis
+01065 intracranial hypertension
+01066 glycosuria
+01067 osteomalacia
+01068 bacterial infections
+01069 periostitis
+01070 oculogyric crisis
+01071 oliguria
+01072 carcinoma
+01073 perforated duodenal ulcer
+01074 voice alteration
+01075 proctitis
+01076 hyperplasia
+01077 parotid gland enlargement
+01078 skin carcinoma
+01079 melanosis
+01080 uterine hemorrhage
+01081 bleeding time increased
+01082 retinopathy
+01083 glucose tolerance decreased
+01084 squamous cell carcinoma
+01085 endocarditis
+01086 night blindness
+01087 anuria
+01088 injection site infection
+01089 injection site pain
+01090 scrotal edema
+01091 gum hyperplasia
+01092 corneal opacity
+01093 discoid lupus
+01094 ventricular fibrillation
+01095 hypervolemia
+01096 cerebral hemorrhage
+01097 lymphangitis
+01098 optic atrophy
+01099 megaloblastic
+01100 cardiomyopathy
+01101 uremia
+01102 retinal hemorrhage
+01103 organ failure
+01104 tubular necrosis
+01105 hepatic coma
+01106 fixed drug eruption
+01107 blighted ovum
+01108 graft versus host reaction
+01109 Fat Redistribution
+01110 iritis
+01111 yawning
+01112 rheumatoid arthritis
+01113 femoral head avascular necrosis
+01114 urogenital disorder
+01115 cold clammy skin
+01116 postoperative bleeding
+01117 corneal ulcer
+01118 aggravated hypertension
+01119 lichen planus
+01120 lichen
+01121 inverted T
+01122 plantar fasciitis
+01123 chest congestion
+01124 tendinitis
+01125 multiple sclerosis
+01126 obstructive pulmonary disease
+01127 peripheral ischemia
+01128 endometrial disorder
+01129 pyuria
+01130 hyperhemoglobinemia
+01131 esophageal stenosis
+01132 lichenoid dermatitis
+01133 pyelonephritis
+01134 sialadenitis
+01135 anterior chamber eye hemorrhage
+01136 failure to thrive
+01137 illusion
+01138 ovary
+01139 retinal deposits
+01140 aggravated depression
+01141 caries
+01142 hemorrhoids
+01143 salivary gland pain
+01144 onychia
+01145 osteomyelitis
+01146 chronic obstructive pulmonary disease
+01147 costochondritis
+01148 mouth edema
+01149 urine flow decreased
+01150 urethra
+01151 change in bowel habits
+01152 clammy
+01153 breast neoplasm
+01154 bladder discomfort
+01155 arthritis aggravated
+01156 aggressive reaction
+01157 female breast
+01158 geographic tongue
+01159 cardiac murmur
+01160 allergy aggravated
+01161 tongue ulceration
+01162 ulcerative colitis
+01163 pericarditis
+01164 female breast pain
+01165 paronychia
+01166 viral hepatitis
+01167 atrophic vaginitis
+01168 dysesthesia
+01169 nail discoloration
+01170 blood pressure fluctuation
+01171 hyperkeratosis
+01172 involuntary muscle contractions
+01173 strangury
+01174 scleroderma
+01175 hyperesthesia
+01176 bone disorder
+01177 basal cell carcinoma
+01178 hypochromic anemia
+01179 irritable bowel
+01180 superficial phlebitis
+01181 surgical intervention
+01182 vitreous detachment
+01183 appendicitis
+01184 operative hemorrhage
+01185 avascular necrosis
+01186 carpal tunnel syndrome
+01187 oral hemorrhage
+01188 Pancreas
+01189 chapped lips
+01190 hemolysis
+01191 cardiac tamponade
+01192 gastrointestinal distress
+01193 hemoglobinemia
+01194 Urine analysis abnormal
+01195 skin burning sensation
+01196 leukocytoclastic vasculitis
+01197 sensitization
+01198 phlebitis at the injection site
+01199 purpura fulminans
+01200 depressed level of consciousness
+01201 Group B
+01202 gastrointestinal fistula
+01203 ZE syndrome
+01204 fecal discoloration
+01205 atrophy of the tongue
+01206 fundic gland polyps
+01207 skin pain
+01208 anterior ischemic optic neuropathy
+01209 dry eye syndrome
+01210 ischemic optic neuropathy
+01211 edema Gastrointestinal
+01212 carcinoids
+01213 gastrointestinal moniliasis
+01214 hepatic encephalopathy
+01215 abdominal swelling
+01216 testicle pain
+01217 reflex sympathetic dystrophy
+01218 lymphopenia
+01219 decreased phosphorus
+01220 decreased calcium
+01221 oral pain
+01222 potassium increased
+01223 decreased albumin
+01224 venous thromboembolism
+01225 vesiculobullous rash
+01226 pustular rash
+01227 pericardial effusion
+01228 potassium decreased
+01229 latent diabetes
+01230 thromboembolism
+01231 increased calcium
+01232 complex regional pain syndrome
+01233 elevated bilirubin
+01234 swelling of the face
+01235 septic shock
+01236 decubitus ulcers
+01237 urea increased
+01238 drug level increased
+01239 fluid retention
+01240 invasive candidiasis
+01241 gestation
+01242 carcinogenicity
+01243 hepatic insufficiency
+01244 hepatitis C
+01245 red cell aplasia
+01246 suicide attempt
+01247 depressive disorder
+01248 swelling of an ear
+01249 gas
+01250 cord
+01251 muscle atrophy
+01252 skin infections
+01253 syphilis
+01254 hyperlactatemia
+01255 nasal discharge
+01256 lymphoma
+01257 Abnormal breath sounds
+01258 lactation
+01259 lactic acidosis
+01260 rupture of membranes
+01261 breathing disorders
+01262 gastrointestinal discomfort
+01263 hepatic steatosis
+01264 pure red cell aplasia
+01265 mood disorders
+01266 Hyperammonemia
+01267 Fluid and Electrolyte Disturbances
+01268 diuresis
+01269 transient blindness
+01270 intestinal cramps
+01271 respiratory depression
+01272 nodal rhythm
+01273 fasciculations
+01274 peliosis hepatis
+01275 Clitoral enlargement
+01276 testicular atrophy
+01277 Habituation
+01278 oligospermia
+01279 decreased glucose
+01280 bladder irritability
+01281 priapism
+01282 sinus pain
+01283 trismus
+01284 facial paralysis
+01285 burning sensation
+01286 persistent cough
+01287 aspiration
+01288 tendinous contracture
+01289 anorgasmia
+01290 muscle stiffness
+01291 contracture
+01292 derealization
+01293 prolactin increased
+01294 uterine fibroids enlarged
+01295 tonic - clonic seizures
+01296 psychomotor retardation
+01297 hangover
+01298 fibroids
+01299 decreased hematocrit
+01300 periodontal abscess
+01301 halitosis
+01302 scalp psoriasis
+01303 skin atrophy
+01304 hyperpigmentation
+01305 Hyperexcitability
+01306 ADH syndrome
+01307 tachypnea
+01308 genital burning sensation
+01309 genital pruritus female
+01310 vulvar erythema
+01311 vaginal erythema
+01312 genital discharge
+01313 coldness
+01314 nephrolithiasis
+01315 burning tongue
+01316 basophilia
+01317 induration
+01318 allergic pneumonitis
+01319 autoimmune hemolytic anemia
+01320 gallbladder sludge
+01321 superinfection
+01322 decreased prothrombin time
+01323 monocytosis
+01324 mental status changes
+01325 generalized seizures
+01326 cerebral infarction
+01327 tumor lysis syndrome
+01328 intoxication
+01329 tarry stools
+01330 foot drop
+01331 cardiopulmonary arrest
+01332 attacks of gout
+01333 salivary gland swelling
+01334 water intoxication
+01335 lysis
+01336 hemorrhage Pancreatitis
+01337 granulomatous hepatitis
+01338 blast crisis
+01339 status epilepticus
+01340 necrotizing angiitis
+01341 scaly skin
+01342 peripheral vascular disorder
+01343 reticulocytosis
+01344 postural dizziness
+01345 respiratory paralysis
+01346 drug hypersensitivity
+01347 peripheral vasoconstriction
+01348 rectal discharge
+01349 hemorrhagic anemia
+01350 cranial nerve palsies
+01351 progression
+01352 aseptic meningitis
+01353 Arachnoiditis
+01354 oxygen saturation decreased
+01355 hypotensive
+01356 feeling hot
+01357 vasoconstriction
+01358 hypalgesia
+01359 hypercapnia
+01360 shivering
+01361 paresis
+01362 muscle relaxation
+01363 Anal Hemorrhage
+01364 cauda equina syndrome
+01365 epidural abscess
+01366 constriction of the pupils
+01367 generalized pruritus
+01368 anterior spinal artery syndrome
+01369 painful defecation
+01370 nerve palsy
+01371 pain at the injection
+01372 parasitic infection
+01373 excitability
+01374 chickenpox
+01375 paroxysmal nocturnal dyspnea
+01376 sustained ventricular tachycardia
+01377 low back pain
+01378 knee pain
+01379 common cold
+01380 orthopnea
+01381 cutaneous pseudolymphoma
+01382 Papillary Muscle Rupture
+01383 atrial tachycardia
+01384 painful respiration
+01385 depressive symptoms
+01386 hypersomnia
+01387 lung neoplasms
+01388 hip pain
+01389 nocturnal dyspnea
+01390 shoulder pain
+01391 chest sound abnormalities
+01392 arm pain
+01393 pseudolymphoma
+01394 toxic skin eruption
+01395 oligohydramnios
+01396 geriatric
+01397 ECG abnormal specific
+01398 intermittent claudication
+01399 enteritis
+01400 tendon pain
+01401 culture negative
+01402 abnormal lacrimation
+01403 polymyalgia rheumatica
+01404 retrograde ejaculation
+01405 gastrointestinal irritation
+01406 tendon disorder
+01407 ejaculation failure
+01408 aneurysm
+01409 lung carcinoma
+01410 tooth hypoplasia
+01411 subarachnoid hemorrhage
+01412 Floppy
+01413 Floppy Iris Syndrome
+01414 abnormal semen
+01415 bronchospasm aggravated
+01416 movement disorder
+01417 polymyalgia
+01418 atrioventricular dissociation
+01419 muscle fatigue
+01420 oligomenorrhea
+01421 shakiness
+01422 hypertrophic cardiomyopathy
+01423 hyperprolactinemia
+01424 Symptoms of hepatitis
+01425 ankle edema
+01426 equilibrium disorders
+01427 quadriparesis
+01428 keratosis
+01429 macula
+01430 hypertrophic subaortic stenosis
+01431 numbness of extremities
+01432 ear infection
+01433 tonsillitis
+01434 cushingoid
+01435 breast cancer
+01436 Tumor Flare
+01437 Post procedural pain
+01438 alkalosis
+01439 reactions to skin tests
+01440 acneiform eruptions
+01441 Negative nitrogen balance
+01442 hypokalemic alkalosis
+01443 muscle mass
+01444 Facial erythema
+01445 subcapsular cataracts
+01446 exophthalmos
+01447 steroid myopathy
+01448 fat atrophy
+01449 ulcerative esophagitis
+01450 Aseptic necrosis
+01451 compression fractures
+01452 striae
+01453 vasomotor collapse
+01454 myelosuppression
+01455 atypical pneumonia
+01456 hypertensive crisis
+01457 ischemic colitis
+01458 pheochromocytoma
+01459 mesenteric arterial thrombosis
+01460 vascular insufficiency
+01461 circumoral paresthesia
+01462 calcium crystalluria
+01463 crystalluria
+01464 arteriosclerosis
+01465 burning eyes
+01466 coronary insufficiency
+01467 foreign body sensation
+01468 chalazion
+01469 trichorrhexis
+01470 eyelid irritation
+01471 eye swelling
+01472 conjunctival edema
+01473 corneal edema
+01474 Allergic conjunctivitis
+01475 conjunctival hemorrhage
+01476 edema eye
+01477 hordeolum
+01478 conjunctiva
+01479 growth of eyelashes
+01480 Asthenopia
+01481 abnormal hair growth
+01482 conjunctival hyperemia
+01483 eyelid pruritus
+01484 eyelid pain
+01485 eyelid erythema
+01486 eye discharge
+01487 madarosis
+01488 corneal erosion
+01489 rheumatism
+01490 PR prolongation
+01491 pyelitis
+01492 lump
+01493 polydipsia
+01494 allergic rhinitis
+01495 labyrinthitis
+01496 vasospasm
+01497 oral itching
+01498 phonophobia
+01499 mastitis
+01500 regurgitation
+01501 tachyarrhythmias
+01502 throat hemorrhage
+01503 parathyroid neoplasm
+01504 fallopian tube
+01505 abnormal bilirubin
+01506 coronary artery vasospasm
+01507 feeling strange
+01508 ketonuria
+01509 tracheitis
+01510 urinary tract bleeding
+01511 pressure sensation
+01512 phobia
+01513 chemosis
+01514 low birth weight
+01515 foot pain
+01516 suprapubic pain
+01517 serum sickness like reaction
+01518 chronic renal failure
+01519 kidney tumour
+01520 abdominal pain lower
+01521 corneal staining
+01522 keratopathy
+01523 toxic megacolon
+01524 phototoxicity
+01525 fixed eruption
+01526 night cramps
+01527 vaginal itching
+01528 megacolon
+01529 convulsive seizures
+01530 papules
+01531 hemiplegia
+01532 congenital anomalies
+01533 urine odor abnormal
+01534 elevated serum cholesterol
+01535 elevated serum calcium
+01536 skin hemorrhages
+01537 wrist pain
+01538 decreased serum potassium
+01539 corneal infiltrates
+01540 fetal distress
+01541 trembling
+01542 pulmonary hemorrhage
+01543 elevated uric acid
+01544 prematurity
+01545 methemoglobinemia
+01546 malabsorption
+01547 Gardnerella
+01548 skin neoplasm
+01549 candiduria
+01550 crusting
+01551 joint swelling
+01552 anosmia
+01553 local burning
+01554 overuse syndrome
+01555 joint stiffness
+01556 decreased serum albumin
+01557 vaginal infection
+01558 flare up of gout
+01559 edema of the lips
+01560 ear pruritus
+01561 aortic bruit
+01562 dysphasia
+01563 elevated serum potassium
+01564 tumour necrosis
+01565 urethral bleeding
+01566 bowel sounds abnormal
+01567 abdominal rigidity
+01568 rebound effect
+01569 defecation urgency
+01570 liver cell adenoma
+01571 fibromyalgia
+01572 electrolyte imbalance
+01573 testis disorder
+01574 frequent bowel movements
+01575 hard feces
+01576 intestinal functional disorder
+01577 adenomas
+01578 wheal
+01579 pustules
+01580 protoporphyria
+01581 posterior subcapsular cataract
+01582 sclera
+01583 testosterone decreased
+01584 unsteadiness
+01585 psychological dependence
+01586 hypoventilation
+01587 dysphoria
+01588 balance disorder
+01589 hot and cold sensations
+01590 Injection Site Urticaria
+01591 Physical dependence
+01592 chronic pain
+01593 impaired gastric emptying
+01594 bezoar
+01595 stomach cramps
+01596 reflux esophagitis
+01597 urination impaired
+01598 panic attacks
+01599 excessive sedation
+01600 anal fissures
+01601 impaction
+01602 drug withdrawal
+01603 diverticulum
+01604 metastases
+01605 fear
+01606 invasion
+01607 flaccidity
+01608 hypogonadism
+01609 gastrointestinal motility disorder
+01610 drug tolerance
+01611 gooseflesh
+01612 bedridden
+01613 hesitancy
+01614 metastatic brain tumor
+01615 cancer pain
+01616 CNS depression
+01617 delayed gastric emptying
+01618 muscle tremor
+01619 abdominal fullness
+01620 hyperalgesia
+01621 large intestine perforation
+01622 early satiety
+01623 apprehension
+01624 hypothermia
+01625 Cardiac Chest Pain
+01626 gastric stasis
+01627 biliary spasm
+01628 presyncope
+01629 respiratory acidosis
+01630 fecal impaction
+01631 decreased estrogen
+01632 bone metastases
+01633 ear disorder
+01634 nasal dryness
+01635 increased thirst
+01636 loss of libido
+01637 feminization
+01638 prostate cancer
+01639 vaginal discomfort
+01640 tumor pain
+01641 breast atrophy
+01642 cord compression
+01643 pituitary adenomas
+01644 spinal cord compression
+01645 vitiligo
+01646 Falling Down
+01647 biliary pain
+01648 facial rash
+01649 convulsions aggravated
+01650 tetany
+01651 aura
+01652 blood in stool
+01653 hemianopia
+01654 folate deficiency
+01655 impetigo
+01656 panic disorder
+01657 hysteria
+01658 Dysmetria
+01659 heat rash
+01660 Abnormal thyroid function tests
+01661 Abnormal thyroid
+01662 pain urinary tract
+01663 Sulfhemoglobinemia
+01664 gastrointestinal disturbance
+01665 withdrawn
+01666 edema foot
+01667 nail changes
+01668 radiation recall reaction
+01669 changes in ECG
+01670 red blotches
+01671 ext
+01672 psychosexual disorder
+01673 serositis
+01674 tinea
+01675 leg swelling
+01676 speech disturbance
+01677 drug intolerance
+01678 cognitive dysfunction
+01679 male sexual dysfunction
+01680 mesenteric infarction
+01681 seasonal allergic rhinitis
+01682 perceptual distortion
+01683 mood disturbances
+01684 myocarditis
+01685 acute gout
+01686 refraction disorder
+01687 retrobulbar optic neuritis
+01688 hypersensitivity syndrome
+01689 vaginal burning
+01690 carotid artery occlusion
+01691 vitreous opacities
+01692 ophthalmia
+01693 eye inflammation
+01694 artery occlusion
+01695 bone spurs
+01696 meibomianitis
+01697 vitreous hemorrhage
+01698 retinal edema
+01699 ingrown toenail
+01700 urolithiasis
+01701 hemophilia
+01702 oral paresthesia
+01703 increased serum triglycerides
+01704 renal colic
+01705 polyarthralgia
+01706 nephrotic syndrome
+01707 EPS
+01708 glomerulonephritis
+01709 dermatomyositis
+01710 sideroblastic anemia
+01711 reactivated peptic ulcer
+01712 gingivostomatitis
+01713 yellow nail syndrome
+01714 membranous glomerulonephritis
+01715 intrahepatic cholestasis
+01716 wrinkling
+01717 elevated serum alkaline phosphatase
+01718 polymyositis
+01719 thyroiditis
+01720 cheilosis
+01721 metastatic disease
+01722 bone marrow toxicity
+01723 microangiopathic hemolytic anemia
+01724 breast mass
+01725 cervical ectropion
+01726 Abnormal bleeding
+01727 Endometrial thickening
+01728 benign meningioma
+01729 thrombophlebitis superficial
+01730 meningiomas
+01731 benign neoplasm
+01732 ectropion
+01733 uterine cancer
+01734 puberty
+01735 precocious puberty
+01736 clot
+01737 hyperlipoproteinemia
+01738 epilepsy
+01739 superficial venous thrombosis
+01740 fibrocystic breast
+01741 Breast swelling
+01742 withdrawal bleeding
+01743 endometriosis
+01744 breast discomfort
+01745 ChurgStrauss syndrome
+01746 prostatic hyperplasia
+01747 sinus headache
+01748 benign prostatic hyperplasia
+01749 Acute Bronchitis
+01750 pyramidal tract syndrome
+01751 furuncles
+01752 subcutaneous abscess
+01753 psychomotor skills impaired
+01754 hypospadias
+01755 cartilage disorder
+01756 retinal toxicity
+01757 bruxism
+01758 growth suppression
+01759 hypofibrinogenemia
+01760 vascular anomaly
+01761 secondary amenorrhea
+01762 other congenital anomalies
+01763 autism spectrum disorder
+01764 chills and fever
+01765 injection site inflammation
+01766 cerebral atrophy
+01767 neural tube defects
+01768 urea cycle disorders
+01769 fibrosarcomas
+01770 macrocytosis
+01771 cluster headache
+01772 cutaneous vasculitis
+01773 autistic disorder
+01774 intrauterine growth retardation
+01775 Fanconi syndrome
+01776 nonketotic hyperglycinemia
+01777 spots before eyes
+01778 dyscrasia
+01779 increased ammonia
+01780 spina bifida
+01781 polycystic ovary
+01782 delayed development
+01783 chronic liver disease
+01784 afibrinogenemia
+01785 epidermal necrosis
+01786 MRS
+01787 acute intermittent porphyria
+01788 absence status
+01789 febrile reactions
+01790 thrombotic microangiopathy
+01791 microangiopathy
+01792 pleuritic pain
+01793 acute chest pain
+01794 skin changes
+01795 pleuropericarditis
+01796 cerebral arteritis
+01797 metaplasia
+01798 thickened skin
+01799 Interstitial pulmonary fibrosis
+01800 arteritis
+01801 hypovolemia
+01802 swelling of the extremities
+01803 atrial rhythm
+01804 tracheobronchitis
+01805 cold sensations
+01806 anaphylactoid purpura
+01807 penis
+01808 balanitis
+01809 nephrogenic diabetes insipidus
+01810 Bulging fontanels
+01811 prolonged periods
+01812 epigastric discomfort
+01813 acute urticaria
+01814 skeletal muscle paralysis
+01815 gastrointestinal carcinoma
+01816 cataract specified
+01817 bladder stenosis
+01818 coronary artery disease
+01819 artery disease
+01820 hypoesthesia oral
+01821 gamma glutamyl transpeptidase increased
+01822 skin tenderness
+01823 myelodysplasia
+01824 bowel disease
+01825 sprue
+01826 hyperuricosuria
+01827 oral lesions
+01828 inflammatory bowel disease
+01829 first degree AV block
+01830 SEM
+01831 venous insufficiency
+01832 inspiratory wheeze
+01833 nail abnormality
+01834 eschar
+01835 cranial nerve disorder
+01836 skin induration
+01837 myotonia
+01838 motor neuropathy
+01839 lactose intolerance
+01840 azoospermia
+01841 gross hematuria
+01842 Pat
+01843 papillary thyroid cancer
+01844 hemorrhagic strokes
+01845 neovascularization
+01846 hypertrichosis
+01847 injection site necrosis
+01848 generalized urticaria
+01849 injection site hematoma
+01850 STS
+01851 esophageal varices
+01852 erythema multiforme minor
+01853 leukoencephalopathy
+01854 hepatoma
+01855 sensory neuropathy
+01856 Glossodynia
+01857 keratoacanthomas
+01858 metastatic renal cell carcinoma
+01859 acute interstitial nephritis
+01860 palmar plantar erythrodysesthesia
+01861 gallbladder polyp
+01862 gallstone
+01863 Endocrine Tumor
+01864 ear discharge
+01865 steatorrhea
+01866 bleeding oesophageal varices
+01867 prostatitis
+01868 polymenorrhea
+01869 pulmonary nodule
+01870 liver fatty
+01871 cold symptoms
+01872 bladder disorder
+01873 Growth hormone overproduction
+01874 pituitary apoplexy
+01875 flu symptoms
+01876 secondary malignancy
+01877 osteoarthritis
+01878 joint effusion
+01879 esophageal hemorrhage
+01880 subcutaneous hematoma
+01881 injection site hemorrhage
+01882 hemoperitoneum
+01883 Hemothorax
+01884 pyogenic granuloma
+01885 sicca
+01886 keratoconjunctivitis sicca
+01887 abnormal hair texture
+01888 scalp seborrhea
+01889 microcytic anemia
+01890 bladder calculus
+01891 bladder pain
+01892 increased reticulocyte count
+01893 G6PD deficiency
+01894 tonic clonic movements
+01895 clonic movements
+01896 anoxia
+01897 mononucleosis
+01898 papillary necrosis
+01899 male infertility
+01900 anisocoria
+01901 breast fibroadenosis
+01902 loose stool
+01903 thromboembolic events
+01904 embolus lower extremity
+01905 para
+01906 piloerection
+01907 hepatic metastases
+01908 neutropenic sepsis
+01909 hand and foot syndrome
+01910 Neutropenic infection
+01911 lung metastases
+01912 Acute leukemia
+01913 typhlitis
+01914 reactions to contrast media
+01915 motor dysfunction
+01916 artery spasm
+01917 visual hallucinations
+01918 cardiac decompensation
+01919 false aneurysm
+01920 edema of glottis
+01921 ST segment elevation
+01922 ST segment depression
+01923 early morning awakening
+01924 Urethral syndrome
+01925 frustration
+01926 snoring
+01927 gustatory sense diminished
+01928 bradyphrenia
+01929 acute coronary syndrome
+01930 Ocular vascular disorder
+01931 Acquired night blindness
+01932 sore gums
+01933 ST segment
+01934 homicidal ideation
+01935 Muscle enzyme increased
+01936 T wave amplitude decreased
+01937 anger
+01938 cor pulmonale
+01939 feeling cold
+01940 Circadian rhythm sleep disorder
+01941 middle insomnia
+01942 initial insomnia
+01943 sensory disturbance
+01944 coated tongue
+01945 Emotional disorder
+01946 completed suicide
+01947 Mental impairment
+01948 Influenza like illness
+01949 right ventricular failure
+01950 ventricular failure
+01951 white blood cell disorder
+01952 supraventricular arrhythmia
+01953 platelet disorder
+01954 common migraine
+01955 upper respiratory tract inflammation
+01956 arterial anomaly
+01957 enzymatic abnormality
+01958 PICA
+01959 enlarged prostate
+01960 aortic aneurysm
+01961 body odor
+01962 torticollis
+01963 corneal lesion
+01964 hyperchlorhydria
+01965 hypocholesteremia
+01966 myeloma
+01967 increase in total cholesterol
+01968 alcohol intolerance
+01969 esophageal spasm
+01970 sinus arrhythmia
+01971 hemochromatosis
+01972 hypomenorrhea
+01973 orchitis
+01974 buccoglossal syndrome
+01975 decreased sweating
+01976 cold hands
+01977 cold feet
+01978 low HDL
+01979 gastrointestinal ulcer
+01980 orgasmic dysfunction
+01981 ileitis
+01982 hypercalcinuria
+01983 alcohol abuse
+01984 increase in LDL cholesterol
+01985 subconjunctival hemorrhage
+01986 accidental pregnancy
+01987 miliaria
+01988 difficulty focusing eyes
+01989 capillary fragility
+01990 polycythemia vera
+01991 menopause
+01992 hypopigmentation
+01993 parotitis
+01994 delayed ejaculation
+01995 brittle nails
+01996 soft stools
+01997 cervicitis
+01998 energy increased
+01999 osteosclerosis
+02000 angle closure glaucoma
+02001 sleep apnea
+02002 delayed orgasm
+02003 salpingitis
+02004 positive direct Coombs test
+02005 peritonsillar abscess
+02006 intestinal bleeding
+02007 abnormal behavior
+02008 Tympanic membrane disorder
+02009 osteosarcoma
+02010 bone neoplasm
+02011 acute dyspnea
+02012 chronic heart failure
+02013 decrease in systolic blood pressure
+02014 blood lactate dehydrogenase increased
+02015 eosinophil count increased
+02016 urine discoloration
+02017 hydrocephalus
+02018 orofacial dyskinesia
+02019 motor restlessness
+02020 atonic colon
+02021 cerebral edema
+02022 protrusion of the tongue
+02023 tremulousness
+02024 shuffling gait
+02025 absence seizures
+02026 false positive pregnancy tests
+02027 drooling
+02028 mitral insufficiency
+02029 cogwheel rigidity
+02030 positive pregnancy tests
+02031 obstipation
+02032 opisthotonos
+02033 cycloplegia
+02034 bilateral renal artery stenosis
+02035 elevated total bilirubin
+02036 Skeletal System Disorders
+02037 menopausal symptoms
+02038 Hepatitis A
+02039 blood cholesterol increased
+02040 ejaculation disorder
+02041 chondrodystrophy
+02042 urethral pain
+02043 pressure of speech
+02044 Female Sexual Dysfunction
+02045 cough decreased
+02046 sluggishness
+02047 hemorrhage of colon
+02048 muscle tightness
+02049 postmenopausal bleeding
+02050 urine output
+02051 diabetic ketoacidosis
+02052 strabismus
+02053 diabetic peripheral neuropathy
+02054 dyslipidemia
+02055 stomach ulcer hemorrhage
+02056 violent
+02057 lymphedema
+02058 genital bleeding
+02059 easy bruising
+02060 gastric irritation
+02061 bundle branch block right
+02062 muscle hemorrhage
+02063 emphysema
+02064 chronic brain syndrome
+02065 maculopathy
+02066 menometrorrhagia
+02067 liver fatty deposit
+02068 purpuric rash
+02069 ulcer hemorrhage
+02070 antisocial reaction
+02071 light anesthesia
+02072 tooth sensitivity
+02073 tension headache
+02074 essential hypertension
+02075 Bone loss
+02076 tooth loss
+02077 periodontal disease
+02078 Periapical abscess
+02079 sore mouth
+02080 pulpitis
+02081 acid indigestion
+02082 sinus infection
+02083 stillbirth
+02084 chronic urticaria
+02085 heat intolerance
+02086 scleral icterus
+02087 dermatophytosis
+02088 hepatitis B
+02089 lipodystrophy
+02090 obesity
+02091 lipohypertrophy
+02092 buffalo hump
+02093 decreased male fertility
+02094 acholia
+02095 perennial allergic rhinitis
+02096 tics
+02097 Ceruminosis
+02098 Pannus
+02099 loss of eyebrows
+02100 Hypervitaminosis
+02101 calcification
+02102 hypervitaminosis A
+02103 cracked skin
+02104 vulvovaginitis
+02105 hyperostosis
+02106 Olecranon bursitis
+02107 anus
+02108 gastrointestinal perforation
+02109 acute anaphylaxis
+02110 necrotizing fasciitis
+02111 Oral irritation
+02112 subileus
+02113 hypoglycemic shock
+02114 pneumatosis
+02115 faint feeling
+02116 athetoid
+02117 bradypnea
+02118 clonic seizures
+02119 shallow breathing
+02120 anterograde amnesia
+02121 pinpoint pupils
+02122 athetosis
+02123 mean blood pressure
+02124 upper airway obstruction
+02125 rhonchi
+02126 airway obstruction
+02127 disinhibition
+02128 gagging
+02129 Retrograde amnesia
+02130 decreased therapeutic response
+02131 oversedation
+02132 argumentativeness
+02133 inflammation localized
+02134 positive tuberculin
+02135 dizziness exertional
+02136 abasia
+02137 papular rash
+02138 coccydynia
+02139 eyelid function disorder
+02140 aspiration pneumonia
+02141 weight fluctuation
+02142 pharyngeal erythema
+02143 groin pain
+02144 cognitive deterioration
+02145 somnambulism
+02146 flat affect
+02147 affect lability
+02148 altered taste
+02149 buttock pain
+02150 macrocytic anemia
+02151 rash scaly
+02152 cells urine
+02153 exhaustion
+02154 cardiopulmonary failure
+02155 white blood cell count increased
+02156 condition aggravated
+02157 auditory hallucinations
+02158 logorrhea
+02159 choreoathetosis
+02160 neck tightness
+02161 Ejaculation Premature
+02162 localized osteoarthritis
+02163 bronchopneumopathy
+02164 obsessive thoughts
+02165 masked facies
+02166 depressive reaction
+02167 blunted affect
+02168 agoraphobia
+02169 blood pressure abnormal
+02170 ketoacidosis
+02171 formication
+02172 urosepsis
+02173 Blood uric acid increased
+02174 uterus
+02175 impaired judgment
+02176 tonsillar hypertrophy
+02177 parkinsonian gait
+02178 sleep talking
+02179 glycosylated hemoglobin increased
+02180 elevated hemoglobin
+02181 dermal cyst
+02182 markedly reduced dietary intake
+02183 panic disorder with agoraphobia
+02184 schizophrenic reaction
+02185 tongue paralysis
+02186 urolith
+02187 xerosis
+02188 neurodermatitis
+02189 suspiciousness
+02190 jaw tightness
+02191 slowed thinking
+02192 exostosis
+02193 head heaviness
+02194 mobility decreased
+02195 extremity tremor
+02196 intentional self injury
+02197 inguinal hernia
+02198 joint contracture
+02199 tongue dry
+02200 irregular heart rate
+02201 electrocardiogram QT corrected interval prolonged
+02202 increased insulin
+02203 facial pain
+02204 schizoaffective disorder
+02205 oropharyngeal spasm
+02206 tongue spasm
+02207 intention tremor
+02208 red blood cell count decreased
+02209 dysphemia
+02210 acute psychosis
+02211 increased neutrophils
+02212 Decreased bone density
+02213 nasal burning
+02214 plaque psoriasis
+02215 secondary infection
+02216 aphonia
+02217 facial telangiectasia
+02218 gastrointestinal infection
+02219 hypercorticism
+02220 oropharyngeal candidiasis
+02221 secondary adrenocortical insufficiency
+02222 immunosuppression
+02223 pelvic inflammatory disease
+02224 plaque
+02225 Stinging skin
+02226 giddiness
+02227 numbness of fingers
+02228 perioral dermatitis
+02229 nasal septal perforation
+02230 paradoxical bronchospasm
+02231 throat infection
+02232 swollen throat
+02233 eczema herpeticum
+02234 protein allergy
+02235 telangiectasia
+02236 Cushing syndrome
+02237 delayed hypersensitivity
+02238 Infected eczema
+02239 uterine atony
+02240 ocular hyperemia
+02241 mental deficiency
+02242 ovarian carcinoma
+02243 hypersexuality
+02244 pathological gambling
+02245 carcinoma of the prostate
+02246 uterine neoplasm
+02247 periorbital swelling
+02248 myocardial rupture
+02249 Autoimmune disorder
+02250 suicidal behavior
+02251 amyloidosis
+02252 Sore nose
+02253 Plantar warts
+02254 spleen palpable
+02255 hormone level altered
+02256 erythroleukemia
+02257 phocomelia
+02258 myxedema
+02259 periosteal disorder
+02260 skin benign neoplasm
+02261 demyelination
+02262 sick sinus syndrome
+02263 multiple congenital abnormalities
+02264 gum disorder
+02265 MCV
+02266 causalgia
+02267 bone tenderness
+02268 chronic myeloid leukemia
+02269 avitaminosis
+02270 chronic hepatitis
+02271 intestinal spasms
+02272 analgesia
+02273 optic nerve infarction
+02274 hyperosmolar coma
+02275 decreased IgG
+02276 increased susceptibility to infection
+02277 pancreatic necrosis
+02278 ring scotoma
+02279 penile discharge
+02280 Lower extremity pain
+02281 malignant hyperthermia
+02282 panniculitis
+02283 Secondary Leukemia
+02284 left ventricular ejection fraction
+02285 early menopause
+02286 Septicemia
+02287 ureteral obstruction
+02288 lymphocytic leukemia
+02289 lymphoblastic leukemia
+02290 lupuslike syndrome
+02291 Acute appendicitis
+02292 ganglion
+02293 Painful red eye
+02294 capillary leak syndrome
+02295 Decreased Breathing Sounds
+02296 retinoic acid syndrome
+02297 normocytic anemia
+02298 bladder carcinoma
+02299 lassitude
+02300 nodular hyperplasia
+02301 retinal vein thrombosis
+02302 urate
+02303 urate crystalluria
+02304 loss of body hair
+02305 chromosome abnormality
+02306 decreased cortisol
+02307 retinal vascular disorder
+02308 abnormal spermatozoa
+02309 chemical meningitis
+02310 transaminitis
+02311 colorectal carcinoma
+02312 pseudoparkinsonism
+02313 upper extremity edema
+02314 musculoskeletal chest pain
+02315 excessive thirst
+02316 Acute pyelonephritis
+02317 intestinal stoma complication
+02318 elbow pain
+02319 abdominal abscess
+02320 urine epithelial cells
+02321 small intestinal obstruction
+02322 fungal rash
+02323 acute renal insufficiency
+02324 Wound secretion
+02325 pelvic peritonitis
+02326 genital rash
+02327 Seroma
+02328 pyloric stenosis
+02329 clostridium colitis
+02330 pelvic abscess
+02331 subdural hematoma
+02332 postoperative infection
+02333 hypoxemia
+02334 Infusion site reaction
+02335 clostridial infection
+02336 Viral Pharyngitis
+02337 serum bilirubin increased
+02338 Anastomotic leak
+02339 bladder dysfunction
+02340 stool guaiac
+02341 Peritoneal infection
+02342 tuberculosis
+02343 Staring
+02344 HBeAg positive
+02345 myofascial pain syndrome
+02346 right upper quadrant pain
+02347 liver pain
+02348 follicular carcinoma
+02349 immune reconstitution syndrome
+02350 paresthesia of the lower limbs
+02351 male breast pain
+02352 metastatic prostate cancer
+02353 bladder outlet obstruction
+02354 vein disorder
+02355 pilonidal cyst
+02356 Hypoglycemic seizure
+02357 weak pulse
+02358 thrombophlebitis leg
+02359 autonomic diabetic neuropathy
+02360 pale skin
+02361 hypoglycemic coma
+02362 personality change
+02363 insulin allergy
+02364 pale
+02365 adhere
+02366 lipoatrophy
+02367 diabetic neuropathy
+02368 tooth caries aggravated
+02369 Collagen Disorders
+02370 diabetic retinopathy
+02371 hunger
+02372 leg thrombosis
+02373 DES
+02374 ketosis
+02375 pharyngeal edema
+02376 anal discomfort
+02377 increased gastrin
+02378 colitis microscopic
+02379 mucus stools
+02380 oral herpes
+02381 soft tissue disease
+02382 acute cholecystitis
+02383 oral mucosal blistering
+02384 trigeminal neuralgia
+02385 central obesity
+02386 Gastric Polyps
+02387 colonic polyp
+02388 claudications
+02389 paresthesia of hands
+02390 poor concentration
+02391 antibody positive
+02392 growth hormone deficiency
+02393 TEV
+02394 hepatic neoplasm
+02395 cytomegalovirus encephalitis
+02396 pharyngeal lesion
+02397 Cryptosporidiosis
+02398 progressive multifocal leukoencephalopathy
+02399 altered state of consciousness
+02400 ischemic cerebral infarction
+02401 hepatic neoplasm malignant
+02402 neuromyopathy
+02403 chronic hepatitis B
+02404 chronic pancreatitis
+02405 hyperbilirubinemia 2
+02406 endomyometritis
+02407 ectopic pregnancy
+02408 endometritis
+02409 uterine cramping
+02410 pelvic cellulitis
+02411 ruptured ectopic pregnancy
+02412 pounding heart
+02413 allergic edema
+02414 compartment syndrome
+02415 gastritis erosive
+02416 gastric hemorrhage
+02417 latex allergy
+02418 perseveration
+02419 overactive bladder
+02420 painful erection
+02421 breast hypertrophy
+02422 trichotillomania
+02423 prostate infection
+02424 feeling of despair
+02425 localized infection
+02426 bipolar disorder
+02427 sighs
+02428 tinea pedis
+02429 gum irritation
+02430 Epicondylitis
+02431 Stress symptoms
+02432 viral gastritis
+02433 tooth abscess
+02434 hearing disorders
+02435 frigidity
+02436 food allergy
+02437 circumoral oedema
+02438 streptococcal pharyngitis
+02439 sebaceous gland disorder
+02440 vocal cord disorder
+02441 herpes infections
+02442 nipple pain
+02443 pelvic infections
+02444 infrequent bowel movements
+02445 infective conjunctivitis
+02446 duodenal ulcer hemorrhage
+02447 disturbance in sexual arousal
+02448 dyslexia
+02449 microcalcification
+02450 hypotrichosis
+02451 sinus disorder
+02452 change in hair color
+02453 Abdominal symptoms
+02454 Female Genital Disorders
+02455 dystonic reactions
+02456 cardiac valvular disease
+02457 PAH
+02458 psychotic episodes
+02459 cerebral venous thrombosis
+02460 hypopituitarism
+02461 ear malformations
+02462 retinal vein occlusion
+02463 adrenal dysfunction
+02464 bowel infarction
+02465 vaginal cyst
+02466 microcephaly
+02467 vein occlusion
+02468 cervical dysplasia
+02469 benign breast neoplasm
+02470 SIDS
+02471 uterine cyst
+02472 mole
+02473 vulvar pruritus
+02474 sterile abscess
+02475 estrogen deficiency
+02476 Cardiac abnormality
+02477 Neonatal jaundice
+02478 congenital diaphragmatic hernia
+02479 single umbilical artery
+02480 eating disorder
+02481 trisomy 21
+02482 fibroadenoma
+02483 tracheoesophageal fistula
+02484 fetal hydrops
+02485 oculomotor nerve paralysis
+02486 venous pain
+02487 vulval abscess
+02488 splenic infarction
+02489 ischemic neuropathy
+02490 missed abortion
+02491 neurofibroma
+02492 polyhydramnios
+02493 skull malformation
+02494 deformity
+02495 renal infarct
+02496 supernumerary digit
+02497 abdominal distress
+02498 vaginal dysplasia
+02499 anovulation
+02500 antepartum hemorrhage
+02501 fibroadenoma of breast
+02502 Smear cervix abnormal
+02503 Attention Deficit
+02504 sickle cell crisis
+02505 talipes
+02506 limb deformity
+02507 lymphatic system disorder
+02508 hydatidiform mole
+02509 injection site atrophy
+02510 congenital megacolon
+02511 Cervical cancer
+02512 hemorrhagic disease
+02513 anencephaly
+02514 esophageal atresia
+02515 global amnesia
+02516 transient global amnesia
+02517 sudden cardiac death
+02518 retinal artery occlusion
+02519 NAION
+02520 cardiac death
+02521 Bleeding hemorrhoids
+02522 erection increased
+02523 generalized pain
+02524 polycythemia
+02525 linear IgA
+02526 red neck
+02527 Red Man Syndrome
+02528 cerebrovascular insufficiency
+02529 positive Coombs test
+02530 mixed connective tissue disease
+02531 sinus rhythm
+02532 scalp pruritus
+02533 hemolytic reactions
+02534 esophageal perforation
+02535 aortic valve incompetence
+02536 epilepsy aggravated
+02537 hyperchloremia
+02538 soft tissue infections
+02539 Coronary Atherosclerosis
+02540 Blood culture positive
+02541 sodium increased
+02542 blood sodium increased
+02543 bacteriuria
+02544 dry socket
+02545 culture positive
+02546 Prolonged activated partial thromboplastin time
+02547 peripheral gangrene
+02548 osteitis
+02549 morbilliform rash
+02550 multifocal atrial tachycardia
+02551 hemodynamic instability
+02552 persistent vomiting
+02553 vaginal pain
+02554 normal tissue
+02555 esophageal pain
+02556 genital edema
+02557 Fluid imbalance
+02558 pulmonary thrombosis
+02559 lung abscess
+02560 bilateral cataracts
+02561 esophageal obstruction
+02562 Carcinoma in Situ
+02563 skin fragility
+02564 esophageal carcinoma
+02565 laryngotracheal edema
+02566 Esophageal tumor
+02567 leukonychia
+02568 unexplained death
+02569 cardiospasm
+02570 chronic active hepatitis
+02571 vitamin B deficiency
+02572 vaginal odor
+02573 prostatism
+02574 rickets
+02575 pyrexia of unknown origin
+02576 renal rickets
+02577 depressive psychosis
+02578 pelvic tumors
+02579 cerebral arteriosclerosis
+02580 mutism
+02581 Penile fibrosis
+02582 Localized Pain
+02583 hyperextension
+02584 Penile Pain
+02585 yeast infections
+02586 scrotum
+02587 phimosis
+02588 Injection site bruising
+02589 Penile edema
+02590 lack of drug effect
+02591 reduced fluid intake
+02592 atrophic rhinitis
+02593 permanent deafness
+02594 partial permanent deafness
+02595 hand pain
+02596 injection site hypersensitivity
+02597 gamma globulins increased
+02598 aggravation reaction
+02599 Reaction unevaluable
+02600 thromboplastin decreased
+02601 globulins increased
+02602 INR increased
+02603 hyposthenuria
+02604 AOM
+02605 chemical conjunctivitis
+02606 otorrhagia
+02607 nephrocalcinosis
+02608 hematocrit increased
+02609 calcinosis
+02610 chronic renal insufficiency
+02611 ligament disorders
+02612 virilization
+02613 acute urinary retention
+02614 systemic vasculitis
+02615 sweet taste
+02616 Electrolyte depletion
+02617 acute generalized exanthematous pustulosis
+02618 xanthopsia
+02619 bladder spasm
+02620 prostate hypertrophy
+02621 epidermolysis bullosa
+02622 epidermolysis
+02623 orthostatic intolerance
+02624 thrombophilia
+02625 metabolic alkalosis
+02626 Syndrome X
+02627 blanching
+02628 ocular stinging
+02629 conjunctival follicles
+02630 follicular conjunctivitis
+02631 superficial punctate keratopathy
+02632 allergic myocarditis
+02633 hypoprothrombinemia
+02634 scleral injection
+02635 Gastrointestinal obstruction
+02636 delayed menstrual period
+02637 nuchal rigidity
+02638 postural orthostatic tachycardia syndrome
+02639 eye rolling
+02640 eye movement disorder
+02641 dementia with Lewy bodies
+02642 nocardiosis
+02643 suppressed hematopoiesis
+02644 fetal death
+02645 soft tissue necrosis
+02646 histoplasmosis
+02647 cytomegaloviral pneumonia
+02648 cryptococcosis
+02649 Hypogammaglobulinemia
+02650 transient amnesia
+02651 rage
+02652 obstructive sleep apnea
+02653 pemphigoid reaction
+02654 acute tubular necrosis
+02655 pseudomembranous enterocolitis
+02656 spasticity
+02657 staggering
+02658 delirium tremens
+02659 violent behaviour
+02660 prerenal azotemia
+02661 prostatic specific antigen increase
+02662 hypoplastic anemia
+02663 hypochloremic alkalosis
+02664 hypochloremia
+02665 leukoplakia of mouth
+02666 leukoplakia
+02667 pruritus ani
+02668 enamel hypoplasia
+02669 cold intolerance
+02670 autoimmune hepatitis
+02671 Burning Itching
+02672 Gastrointestinal Toxicity
+02673 cortical blindness
+02674 plantar erythema
+02675 aftertaste
+02676 dish
+02677 pyoderma
+02678 eyelid disorder
+02679 increased cardiac enzymes
+02680 facial paresis
+02681 respiratory alkalosis
+02682 slipped capital femoral epiphysis
+02683 loss of fluid
+02684 exophthalmic goiter
+02685 epiphysis
+02686 intractable pain
+02687 acute otitis media
+02688 visual and auditory hallucinations
+02689 difficulty in micturition
+02690 junctional bradycardia
+02691 rebound hypertension
+02692 colonic pseudoobstruction
+02693 terminal cancer
+02694 tearfulness
+02695 myonecrosis
+02696 Sterility
+02697 muscle fibrosis
+02698 muscle damage
+02699 spinal cord disease
+02700 normal platelet count
+02701 mediastinal tumor
+02702 superior vena cava syndrome
+02703 remission
+02704 extensive disease
+02705 Eczema asteatotic
+02706 warm skin
+02707 b All
+02708 paranoid delusions
+02709 Application site atrophy
+02710 Application site anesthesia
+02711 application site edema
+02712 skin odor abnormal
+02713 viral syndrome
+02714 gastric perforation
+02715 oral infection
+02716 duodenal perforation
+02717 infectious gastroenteritis
+02718 cerumen impaction
+02719 myelitis
+02720 toxic reaction
+02721 nasal polyps
+02722 friction rubs
+02723 Leriche syndrome
+02724 tongue irritation
+02725 helicobacter gastritis
+02726 cerebral hypoxia
+02727 mesenteric ischemia
+02728 sphincter of Oddi spasm
+02729 AT1
+02730 decreased drug level
+02731 infusion related reaction
+02732 fungemia
+02733 portal vein thrombosis
+02734 elevated lipids
+02735 endometrial hyperplasia
+02736 coronary heart disease
+02737 BMD
+02738 effects of estrogen
+02739 nonconvulsive status epilepticus
+02740 convulsive status epilepticus
+02741 Bacterial Meningitis
+02742 slow wave
+02743 sixth nerve palsy
+02744 echolalia
+02745 facial neuralgia
+02746 transverse myelitis
+02747 grimacing
+02748 acquired immunodeficiency syndrome
+02749 Acute exacerbation of chronic bronchitis
+02750 Bad dreams
+02751 labyrinthine disorder
+02752 acanthosis
+02753 acanthosis nigricans
+02754 xanthomas
+02755 cystoid macular edema
+02756 sympathomimetic effects
+02757 gray syndrome
+02758 bone marrow aplastic
+02759 Paroxysmal nocturnal hemoglobinuria
+02760 irregular respiration
+02761 wandering
+02762 emotional withdrawal
+02763 melancholia
+02764 head pressure
+02765 Alzheimer Disease
+02766 head fullness
+02767 ear buzzing
+02768 B12 deficiency anemia
+02769 nonproliferative diabetic retinopathy
+02770 NPH
+02771 increased TSH
+02772 creatine increased
+02773 hyposmia
+02774 Dermographism
+02775 lacunar infarction
+02776 lymphocyte count decreased
+02777 psychotic behavior
+02778 tubulointerstitial nephritis
+02779 activated partial thromboplastin time prolonged
+02780 arterial aneurysm
+02781 PLG
+02782 changes in blood pressure
+02783 cervical adenitis
+02784 excessive gas
+02785 Appetite disorder
+02786 alcohol withdrawal
+02787 perirectal abscess
+02788 normal creatinine
+02789 frequent headaches
+02790 back stiffness
+02791 Difficulty sleeping
+02792 OCD
+02793 Oily
+02794 cerebral arterial aneurysm
+02795 lid retraction
+02796 chest heaviness
+02797 Sexually Transmitted Diseases
+02798 CREST syndrome
+02799 periventricular leukomalacia
+02800 cerebral palsy
+02801 febrile convulsions
+02802 intraventricular hemorrhage
+02803 vocal tics
+02804 erosive esophagitis
+02805 benign prostatic hypertrophy
+02806 Orbital Edema
+02807 eustachian tube dysfunction
+02808 anemia secondary
+02809 nephritic syndrome
+02810 necrotizing enterocolitis
+02811 Retinopathy of Prematurity
+02812 regional ileitis
+02813 decreased platelet aggregation
+02814 pulmonary infections
+02815 involuntary muscle movements
+02816 pernicious anemia
+02817 overactivity
+02818 hyperphagia
+02819 bladder paralysis
+02820 sulfa allergy
+02821 Dizzy spell
+02822 nasal obstruction
+02823 Food Interactions
+02824 colonic obstruction
+02825 fructose intolerance
+02826 hemangioma acquired
+02827 gastric carcinoma
+02828 rash psoriaform
+02829 brain tumor
+02830 pulmonary infarction
+02831 diverticulosis
+02832 benign brain neoplasm
+02833 photosensitivity allergic reaction
+02834 malignant ovarian cyst
+02835 Hypertensive encephalopathy
+02836 carotid stenosis
+02837 apraxia
+02838 inner ear infection
+02839 inner ear
+02840 epiglottitis
+02841 acute epiglottitis
+02842 lung cancer
+02843 kidney infection
+02844 abdominal aortic aneurysm
+02845 Bladder Neoplasm
+02846 perforated peptic ulcer
+02847 retention Potassium
+02848 left ventricular dysfunction
+02849 ventricular dysfunction
+02850 sickle cell disease
+02851 central line infection
+02852 candida sepsis
+02853 cerebrospinal fluid leaks
+02854 Neuroretinitis
+02855 brain abscess
+02856 monoplegia
+02857 idiopathic pneumonia syndrome
+02858 tumor recurrence
+02859 pulmonary hypoplasia
+02860 limb cramp
+02861 loss of interest
+02862 dissociative reaction
+02863 sore eyes
+02864 thinning of nails
+02865 tunnel vision
+02866 claustrophobia
+02867 autonomic neuropathy
+02868 bilateral hearing loss
+02869 toxoplasmosis
+02870 Listeriosis
+02871 acute pulmonary edema
+02872 hemorrhagic duodenitis
+02873 cardiac amyloidosis
+02874 polyarthritis
+02875 meningoencephalitis
+02876 neutrophilic dermatosis
+02877 aspergillosis
+02878 hos
+02879 zoster ophthalmicus
+02880 herpes keratitis
+02881 postherpetic neuralgia
+02882 reversible posterior leukoencephalopathy syndrome
+02883 dysautonomia
+02884 hepatic hemorrhage
+02885 hematological malignancy
+02886 febrile neutrophilic dermatosis
+02887 deafness bilateral
+02888 chronic obstructive airways disease exacerbated
+02889 large intestinal obstruction
+02890 glomerulonephropathy
+02891 bilateral hydronephrosis
+02892 Albright Syndrome
+02893 keratitis sicca
+02894 stromal edema
+02895 constrictive pericarditis
+02896 urogenital anomaly
+02897 chronic lymphocytic leukemia
+02898 bulimia
+02899 cervix disorder
+02900 oppositional
+02901 spermatogenesis arrest
+02902 puerperal disorders
+02903 abnormal lymphocytes
+02904 trachea
+02905 larynx
+02906 abnormal WBC
+02907 fertility decreased female
+02908 Male Genital Disorders
+02909 impaired hematopoiesis
+02910 Genital Disorders
+02911 premature delivery
+02912 eclampsia
+02913 skin melanoma
+02914 generalized spasm
+02915 anisocytosis
+02916 tooth malformation
+02917 abnormal RBC
+02918 acute glaucoma
+02919 salivary glands
+02920 pellagra
+02921 Pyridoxine deficiency
+02922 Moaning
+02923 impulse control disorder
+02924 tracheostomy infection
+02925 bloated feeling
+02926 diuretic effect
+02927 alcohol dependence
+02928 hypovolemic shock
+02929 ain
+02930 prolonged labor
+02931 junctional tachycardia
+02932 anxiety attack
+02933 skin abnormality
+02934 hypopnea
+02935 dacryocystitis
+02936 conjunctival cyst
+02937 conjunctival irritation
+02938 corneal disorders
+02939 chronic conjunctivitis
+02940 blepharitis allergic
+02941 corneal defect
+02942 papillary conjunctivitis
+02943 allergic rash
+02944 genital herpes
+02945 cerebellar ataxia
+02946 radiculopathy
+02947 Pulmonary lymphoma
+02948 neonatal hemorrhage
+02949 gasping
+02950 high risk pregnancy
+02951 death of mother
+02952 bacterial endocarditis
+02953 external ear infection
+02954 pharynx disorder
+02955 Candida albicans infection
+02956 perennial rhinitis
+02957 psychiatric symptoms
+02958 external ear
+02959 hair growth increased
+02960 genital pruritus male
+02961 testosterone increased
+02962 renal failure aggravated
+02963 Stent occlusion
+02964 keloids
+02965 scarring
+02966 pituitary tumor benign
+02967 Drug Induced Liver Injury
+02968 infarction of the pituitary gland
+02969 neoplasm of pituitary
+02970 localized edema
+02971 male breast
+02972 staphylococcal infections
+02973 transfusion reactions
+02974 left ventricular systolic dysfunction
+02975 systemic inflammatory response syndrome
+02976 separation
+02977 renal shutdown
+02978 venospasm
+02979 burning pain
+02980 abnormal platelet count
+02981 abnormal BUN
+02982 abnormal creatinine
+02983 Aphthosis
+02984 Clostridium difficile colitis
+02985 hairy tongue
+02986 Skin toxicity
+02987 sleepy
+02988 citrullinemia
+02989 reflex bradycardia
+02990 abnormal reflexes
+02991 migraine aggravated
+02992 atrial dilatation
+02993 Tongue blistering
+02994 osteochondrosis
+02995 Retinal tear
+02996 strangulated hernia
+02997 cholecystitis chronic
+02998 Anal skin tags
+02999 Venous pressure jugular
+03000 Nasal sinus drainage
+03001 Abdominal hernia
+03002 skin papilloma
+03003 partial seizures
+03004 pancreatic pseudocyst
+03005 papilloma
+03006 skin tags
+03007 Venous pressure jugular increased
+03008 venous stasis
+03009 pseudocyst
+03010 intertrigo
+03011 arteriovenous fistula
+03012 head discomfort
+03013 lobar pneumonia
+03014 Gastroenteritis bacterial
+03015 Nail hypertrophy
+03016 Blood bicarbonate decreased
+03017 Palmar erythema
+03018 Connective tissue inflammation
+03019 Arthritis infective
+03020 Sputum purulent
+03021 myeloproliferative disorders
+03022 septic arthritis
+03023 ear congestion
+03024 sensation of block in ear
+03025 Acute Sinusitis
+03026 atrial septal defect
+03027 tophi
+03028 Vaginal prolapse
+03029 thalassemia
+03030 acute tonsillitis
+03031 pigmentation disorder
+03032 eds
+03033 unable to swallow
+03034 mast cell leukemia
+03035 bone marrow necrosis
+03036 apoptosis
+03037 mastocytoma
+03038 sexually active
+03039 alveolar proteinosis
+03040 gastrointestinal neoplasm
+03041 myocardial hypertrophy
+03042 indolent systemic mastocytosis
+03043 equilibrium loss
+03044 rib pain
+03045 bacterial conjunctivitis
+03046 rectal mass
+03047 rectal ulcers
+03048 renal cyst
+03049 vaginal ulceration
+03050 paranoid state
+03051 carbuncle
+03052 acute stress reaction
+03053 granulocytosis
+03054 genital lesion
+03055 dialysis encephalopathy
+03056 dyschromatopsia
+03057 Yersinia
+03058 retinal degeneration
+03059 Mucormycosis
+03060 Neuro Hearing
+03061 metaphyseal dysplasia
+03062 Injection Site Mass
+03063 vascular pain
+03064 Haptoglobin increased
+03065 no Proteinuria
+03066 decreased sodium
+03067 type 2 diabetes
+03068 microalbuminuria
+03069 schizophrenia
+03070 fat embolism
+03071 LIPID ABNORMALITY
+03072 thinning of skin
+03073 chorioretinopathy
+03074 central serous chorioretinopathy
+03075 collagen vascular disease
+03076 Skin Breakdown
+03077 ABNORMAL RENAL FUNCTION TEST
+03078 U wave
+03079 tenderness Eye
+03080 Uterine rupture
+03081 Thyroid storm
+03082 nipple disorder
+03083 decrease in diastolic blood pressure
+03084 hemarthrosis
+03085 impatience
+03086 increase in systolic blood pressure
+03087 red blood cell count increased
+03088 varicocele
+03089 accelerated growth
+03090 neoplasm prostate
+03091 dermatitis acneiform
+03092 buccal inflammation
+03093 pattern baldness
+03094 gum redness
+03095 depression with suicidal
+03096 nasal edema
+03097 haemoglobin abnormal
+03098 gum blister
+03099 bullous rash
+03100 prostatic adenoma
+03101 polycystic kidney
+03102 generalized paresthesia
+03103 lipids serum increased
+03104 Decreased serum testosterone
+03105 hair disorder
+03106 scrotal infection
+03107 scrotal hematoma
+03108 ophthalmoplegia
+03109 neutropenic enterocolitis
+03110 acral erythema
+03111 angina attacks
+03112 urethral obstruction
+03113 penicillin allergy
+03114 phlebosclerosis
+03115 sclerosing cholangitis
+03116 metastatic breast cancer
+03117 hypolipemia
+03118 gastric erosions
+03119 ulcerative proctitis
+03120 AIDSrelated Kaposi Sarcoma
+03121 Kaposi Sarcoma
+03122 pneumonia due to Streptococcus
+03123 supernumerary nipple
+03124 nevus
+03125 congenital glaucoma
+03126 trisomy 18
+03127 imperforate hymen
+03128 Klinefelter syndrome
+03129 capillary permeability
+03130 loss of nails
+03131 gastric cancer
+03132 Normal Liver Function Tests
+03133 cutaneous lupus erythematosus
+03134 lacrimal duct obstruction
+03135 bronchopneumonia
+03136 swelling of the vein
+03137 gastrointestinal cancers
+03138 General symptoms
+03139 ulcerative enterocolitis
+03140 lymphocyte count increased
+03141 Phenylketonuria
+03142 gene mutation
+03143 Salmonella
+03144 facial wasting
+03145 portal hypertension
+03146 Retinal depigmentation
+03147 wasting
+03148 elevated serum amylase
+03149 talkativeness
+03150 aroused
+03151 Wenckebach
+03152 asthma aggravated
+03153 intestinal stenosis
+03154 hydroureter
+03155 wrist drop
+03156 PSA decreased
+03157 enlarged breasts
+03158 ever
+03159 injection site thrombophlebitis
+03160 choroidal nevus
+03161 retinal pigmentation
+03162 lower GI bleeding
+03163 vascular dementia
+03164 hepatic adenoma
+03165 erythrocytosis
+03166 paraparesis
+03167 hypereosinophilia
+03168 ocular hypertension
+03169 vascular resistance
+03170 sinus node dysfunction
+03171 cardiac index
+03172 lichenoid keratosis
+03173 neck swelling
+03174 empyema
+03175 TLC
+03176 bronchopleural fistula
+03177 Mesothelioma
+03178 spontaneous pneumothorax
+03179 pleural thickening
+03180 unresponsive to stimuli
+03181 hypoparathyroidism
+03182 intestinal ischemia
+03183 ear discomfort
+03184 Infectious Diarrhea
+03185 climacteric syndrome
+03186 watery diarrhea
+03187 rheumatic carditis
+03188 panuveitis
+03189 renal cortical necrosis
+03190 ventricular flutter
+03191 cyclophoria
+03192 scarlatiniform rash
+03193 Anhidrosis
+03194 acute angle closure glaucoma
+03195 open angle glaucoma
+03196 labored respirations
+03197 inspiratory stridor
+03198 decreased bowel sounds
+03199 cardiac syncope
+03200 Testicular Carcinoma
+03201 streptococcal infections
+03202 Myelofibrosis
+03203 multiple pregnancies
+03204 fine tremor
+03205 systemic vascular resistance
+03206 cystic fibrosis
+03207 decreased serum calcium
+03208 high frequency hearing loss
+03209 roaring in the ears
+03210 increased serum LDH
+03211 CMV retinitis
+03212 Fat tissue increased
+03213 Lipodystrophy congenital
+03214 mucosal ulceration
+03215 wasting syndrome
+03216 psychic disorder
+03217 numbness face
+03218 insulin resistance
+03219 feces bloodstained
+03220 rhinitis allergic atopic
+03221 buccal mucosa ulceration
+03222 papillomatosis
+03223 red face
+03224 poliomyelitis
+03225 overdose effect
+03226 myeloblastic leukemia
+03227 molluscum contagiosum
+03228 xeroderma
+03229 generalized abdominal pain
+03230 elevated serum creatine phosphokinase
+03231 epigastric fullness
+03232 femoral artery thrombosis
+03233 rectal discomfort
+03234 pulmonary insufficiency
+03235 viremia
+03236 acute graft versus host disease
+03237 VOD
+03238 GVHD
+03239 Chronic GVHD
+03240 endocardial fibrosis
+03241 electrolyte disturbance
+03242 melanoderma
+03243 sinusoidal obstruction syndrome
+03244 chronic phase CML
+03245 Cervical Smear Test Positive
+03246 hereditary angioedema
+03247 increased plasma volume
+03248 diabetic macular edema
+03249 Trigger finger
+03250 rectal polyp
+03251 rectal cramps
+03252 minimal change nephropathy
+03253 chronic interstitial nephritis
+03254 anorectal disorder
+03255 chromaturia
+03256 back discomfort
+03257 pyoderma gangrenosum
+03258 kidney fibrosis
+03259 regression
+03260 Depression Anxiety
+03261 rapidly progressive glomerulonephritis
+03262 conjunctival congestion
+03263 thyroid adenoma
+03264 Right Heart Failure
+03265 abdominal infections
+03266 temporomandibular joint arthralgia
+03267 alanine aminotransferase decreased
+03268 bladder infection
+03269 decreased total protein
+03270 eczema exacerbated
+03271 erysipelas
+03272 respiratory tract infection viral
+03273 joint crepitation
+03274 Suicidal tendency
+03275 potassium abnormal
+03276 back disorder
+03277 mammogram abnormal
+03278 thyroid neoplasm
+03279 rectal prolapse
+03280 osteoarthritis of the knee
+03281 knee effusion
+03282 invasive breast cancer
+03283 otitis media serous
+03284 biliary tract disorder
+03285 abnormal glucose
+03286 foot infections
+03287 poor peripheral circulation
+03288 monocyte count increased
+03289 wound hemorrhage
+03290 foot infection fungal
+03291 sebaceous cyst
+03292 scleral haemorrhage
+03293 helicobacter infection
+03294 anemia Renal
+03295 secondary malignancies
+03296 relapsed colorectal cancer
+03297 Clostridium difficile diarrhea
+03298 lacrimation abnormal
+03299 catheter infection
+03300 vocal cord paralysis
+03301 abnormal tongue
+03302 rheumatic fever
+03303 bac
+03304 Mucocutaneous candidiasis
+03305 chronic urinary tract infections
+03306 Cervical intraepithelial neoplasia
+03307 Spinal cord infarction
+03308 pin
+03309 cataract cortical
+03310 dry scalp
+03311 quadriplegia
+03312 nasal itching
+03313 cataract nuclear
+03314 hypopyon
+03315 pneumonia Klebsiella
+03316 loin pain
+03317 congestive cardiomyopathy
+03318 pitting edema
+03319 Staphylococcal bacteremia
+03320 blastomycosis
+03321 leukemia cutis
+03322 Injection site granuloma
+03323 tinea cruris
+03324 scrotal ulcer
+03325 lymphoma Hepatic
+03326 scrotal erythema
+03327 hypertrophic scar
+03328 scrotal pain
+03329 bacterial skin infection
+03330 skin depigmentation
+03331 CVT
+03332 chest pressure
+03333 nonsustained ventricular tachycardia
+03334 after cataract
+03335 Cloudy Urine
+03336 Reaction Perinatal
+03337 increased drug effect
+03338 Perinatal Disorder
+03339 Tachycardia Nodal
+03340 perforated gastric ulcer
+03341 lymphocytic colitis
+03342 skin bleeding
+03343 normal ECG
+03344 coronary stenosis
+03345 anemic
+03346 cryptococcal meningitis
+03347 c All
+03348 pulmonary thromboembolism
+03349 NSCLC
+03350 abnormal visual evoked potentials
+03351 vocal cord paresis
+03352 Serum bicarbonate decreased
+03353 increased urine protein
+03354 Serum phosphate increased
+03355 Phosphate Increased
+03356 occipital neuralgia
+03357 CNS tumors
+03358 swollen scrotum
+03359 leg ulcer
+03360 increased capillary fragility
+03361 swollen penis
+03362 suicide gesture
+03363 lump in neck
+03364 Babinski sign
+03365 lip hemorrhage
+03366 perleche
+03367 pericardial rub
+03368 papanicolau smear suspicious
+03369 Glomerulitis
+03370 carotid thrombosis
+03371 cervix neoplasm
+03372 chronic leukemia
+03373 leukemoid reaction
+03374 unexpected benefit
+03375 bronchiectasis
+03376 urogenital neoplasia
+03377 necrotizing pancreatitis
+03378 laryngeal neoplasia
+03379 musculoskeletal congenital anomaly
+03380 vulvovaginal disorder
+03381 nasal septum disorder
+03382 Guillain Barre syndrome
+03383 leukemoid
+03384 extraocular palsy
+03385 Weight Gain Abnormal
+03386 breast abscess
+03387 intracranial aneurysm
+03388 QT interval shortened
+03389 calcium disorder
+03390 proctocolitis
+03391 iron decreased
+03392 flaccid paralysis
+03393 skin tingling
+03394 EBV infection
+03395 gastroesophagitis
+03396 monoparesis
+03397 echocardiogram abnormal
+03398 graft dysfunction
+03399 decreased serum iron
+03400 writing impaired
+03401 primary graft dysfunction
+03402 temperature intolerance
+03403 urge urinary incontinence
+03404 varicella zoster
+03405 Bullous impetigo
+03406 Bile duct stenosis
+03407 NPS
+03408 Abnormal labor
+03409 preterm labor
+03410 female infertility
+03411 dys
+03412 nephrosclerosis
+03413 kyphosis
+03414 Verbal abuse
+03415 Gallop Rhythm
+03416 Physical abuse
+03417 Simple partial seizures
+03418 abnormal heart sounds
+03419 Bunion
+03420 Aneurysm Ruptured
+03421 skin yellowing
+03422 Tumour Progression
+03423 Skin Turgor Decreased
+03424 Abscess neck
+03425 pseudomonal sepsis
+03426 Hypergammaglobulinemia
+03427 muscular incoordination
+03428 livedo reticularis
+03429 livedo
+03430 fungal pneumonia
+03431 sensory loss
+03432 mg reduced
+03433 metabolic encephalopathy
+03434 peroneal nerve palsy
+03435 hemopericardium
+03436 increased angina
+03437 necrosis of the intestines
+03438 poikilocytosis
+03439 normal potassium
+03440 screaming syndrome
+03441 major depressive disorder
+03442 hypochondriasis
+03443 hematospermia
+03444 irregular pulse
+03445 dyshidrotic eczema
+03446 paradoxical pressor response
+03447 neuroma
+03448 oral cavity cancer
+03449 nail infection
+03450 umbilical hernia
+03451 Narcolepsy
+03452 gallbladder cancer
+03453 gingival infection
+03454 Disorders Nasal
+03455 foot malformation
+03456 blackout
+03457 intervertebral disc disorder
+03458 intervertebral disc protrusion
+03459 hypovitaminosis
+03460 lymphadenitis
+03461 abdominal neoplasm
+03462 binge
+03463 spine malformation
+03464 dysgraphia
+03465 monoarthritis
+03466 parasomnia
+03467 amaurosis fugax
+03468 colorectal cancer
+03469 compulsions
+03470 intervertebral discitis
+03471 no drug effect
+03472 cancer metastatic
+03473 spinal osteoarthritis
+03474 amaurosis
+03475 Sleep attacks
+03476 oral neoplasm benign
+03477 oral neoplasm
+03478 vestibular ataxia
+03479 neurogenic bladder
+03480 Hyperamylasemia
+03481 disorder of lipid metabolism
+03482 MRSA
+03483 diabetic foot infections
+03484 diabetic foot
+03485 Nosocomial pneumonia
+03486 cardiac failure acute
+03487 cold hands and feet
+03488 sinoatrial block
+03489 bronchial obstruction
+03490 choroidal detachment
+03491 floppy infant syndrome
+03492 rectal burning
+03493 emotional poverty
+03494 vaginal disorder
+03495 infection Breast
+03496 vaginal swelling
+03497 trichomonal vaginitis
+03498 inflammatory swelling
+03499 vulvitis
+03500 secondary cardiomyopathy
+03501 myocardial necrosis
+03502 Ovarian atrophy
+03503 recurrent urinary tract infections
+03504 urinary tract cancer
+03505 ureteritis
+03506 adenovirus
+03507 borderline personality disorder
+03508 symptom of anxiety
+03509 posttraumatic stress disorder
+03510 substance abuse
+03511 clumsiness
+03512 withdrawal seizures
+03513 serum gastrin increased
+03514 pregnancy induced hypertension
+03515 erythromelalgia
+03516 symptomatic parkinsonism
+03517 facial pallor
+03518 toxemia of pregnancy
+03519 sagittal sinus thrombosis
+03520 prolactinomas
+03521 cerebrospinal fluid rhinorrhea
+03522 choreoathetoid movements
+03523 autonomic instability
+03524 malignant gliomas
+03525 Behavior disorder
+03526 glioma
+03527 abnormal pigmentation
+03528 Hair Ingrown
+03529 Pseudofolliculitis Barbae
+03530 skin granuloma
+03531 cerebral hematoma
+03532 congenital central nervous system anomaly
+03533 mesenteric arterial occlusion
+03534 respiratory moniliasis
+03535 exomphalos
+03536 gastrointestinal dysplasia
+03537 normochromic normocytic anaemia
+03538 facial nerve palsies
+03539 bladder atony
+03540 pain finger
+03541 adrenal disorders
+03542 toe pain
+03543 anosognosia
+03544 mL i
+03545 uricaciduria
+03546 bone sarcomas
+03547 tetralogy of Fallot
+03548 cerebrospinal fluid abnormal
+03549 incoherent
+03550 injection site fibrosis
+03551 systolic murmur
+03552 injection site abscess
+03553 carcinoma cervix in situ
+03554 basilar artery ischemia
+03555 GGT were decreased
+03556 Diabetes Mellitus Aggravated
+03557 organic brain syndromes
+03558 infections of the cornea
+03559 myocardial depression
+03560 short term memory loss
+03561 systolic hypertension
+03562 arthritic pain
+03563 hepatorenal syndrome
+03564 dysthymia
+03565 Ocular allergy
+03566 osteoarthritis of the hand
+03567 eyelid swelling
+03568 halo vision
+03569 SAR
+03570 Numbness in leg
+03571 giant
+03572 lymphocele
+03573 chronic allograft nephropathy
+03574 mycobacterial infections
+03575 PTLD
+03576 graft loss
+03577 hepatic artery thrombosis
+03578 glomerulosclerosis
+03579 focal segmental glomerulosclerosis
+03580 myoglobinuria
+03581 transient cerebral ischemia
+03582 intussusception
+03583 gastroduodenitis
+03584 expressive language disorder
+03585 Reaction Emotional
+03586 Oligohidrosis
+03587 upper motor neuron lesion
+03588 Sudden unexplained death
+03589 tachycardia foetal
+03590 floating feeling
+03591 nasal pain
+03592 CBS deficiency
+03593 hypermethioninemia
+03594 unrest
+03595 eyelid dermatitis
+03596 throbbing headache
+03597 metastatic ovarian carcinoma
+03598 neutropenic colitis
+03599 prom
+03600 neonatal death
+03601 failed induction
+03602 Postpartum hemorrhage
+03603 uterine hyperstimulation
+03604 amnionitis
+03605 fetal heart rate
+03606 Amniotic fluid embolism
+03607 vaginismus
+03608 TIBC
+03609 catalepsy
+03610 fat intolerance
+03611 Psychosomatic disorder
+03612 hypnagogic hallucinations
+03613 gastric dilatation
+03614 uterine inflammation
+03615 vulvar disorder
+03616 Diastolic Hypertension
+03617 mastitis male
+03618 Nasal septum ulceration
+03619 coagulation necrosis
+03620 suppressed lactation
+03621 decreased tendon reflexes
+03622 PMe
+03623 progressive renal failure
+03624 MAC
+03625 bronchopulmonary aspergillosis
+03626 chloride decreased
+03627 Blood chloride decreased
+03628 pulmonary mass
+03629 Lip ulceration
+03630 intermittent pyrexia
+03631 peripheral cyanosis
+03632 foot ulcer
+03633 renal mass
+03634 trifascicular block
+03635 phantom limb pain
+03636 chest pressure sensation
+03637 abnormal pulse
+03638 increased serum ferritin
+03639 incomplete right bundle branch block
+03640 Bacterial Prostatitis
+03641 lae
+03642 subjective visual disturbances
+03643 choluria
+03644 ulcer ileum
+03645 erythroid hyperplasia
+03646 increased serum iron
+03647 carpopedal spasm
+03648 transient hemiplegia
+03649 abnormal menstrual cycle
+03650 diplegia
+03651 Meniere disease
+03652 globus hystericus
+03653 nasal inflammation
+03654 hypertensive episodes
+03655 vascular occlusion
+03656 retinal vascular occlusion
+03657 musculoskeletal deformity
+03658 vasospastic angina
+03659 hypervigilance
+03660 temporal arteritis
+03661 deep breathing
+03662 secondary adrenal insufficiency
+03663 Insomnia exacerbated
+03664 middle ear
+03665 macular hole
+03666 ciliary spasm
+03667 head and neck cancer
+03668 decrease in haptoglobin
+03669 motor tics
+03670 bullous keratopathy
+03671 convulsive disorders
+03672 Tourette syndrome
+03673 Anxiety Disorder
+03674 postoperative nausea
+03675 joint malformation
+03676 endometrial hypertrophy
+03677 carcinoma of the colon
+03678 colorectal polyps
+03679 Elevated prolactin level
+03680 type 1 diabetes
+03681 opioid dependence
+03682 Hunger Pangs
+03683 graft failure
+03684 Hodgkins Disease
+03685 renal abscess
+03686 altered consciousness
+03687 synovial cyst
+03688 Systemic Fungal Infection
+03689 Central Nervous System Disorders
+03690 infectious meningitis
+03691 anal inflammation
+03692 freckles
+03693 liver abscess
+03694 immunity
+03695 spastic paraparesis
+03696 Hydrocephalus acquired
+03697 pneumatosis cystoides intestinalis
+03698 necrotizing colitis
+03699 neoplastic meningitis
+03700 Pelvic hematoma
+03701 Neonatal seizures
+03702 hypertonicity
+03703 Low Apgar scores
+03704 Bradycardia Neonatal
+03705 synechiae
+03706 headache dull
+03707 Esophageal Reflux Aggravated
+03708 Osteogenesis Imperfecta
+03709 esophageal erosions
+03710 anastomotic ulcer
+03711 episcleritis
+03712 mixed infections
+03713 central retinal vein occlusion
+03714 recurrence of disease
+03715 gastrointestinal anomaly
+03716 decreased electrolytes
+03717 absolute neutrophil count decreased
+03718 acquired hemophilia
+03719 autoimmune thrombocytopenia
+03720 Evans syndrome
+03721 oculomucocutaneous syndrome
+03722 spinal headache
+03723 Cervical lesion
+03724 enlarged uterus
+03725 air in stomach
+03726 Genital ulcer
+03727 acne aggravated
+03728 IUD complication
+03729 uterine perforation
+03730 vaginal neoplasm
+03731 Corpus luteum cyst
+03732 Genital Infections
+03733 reactive airway disease
+03734 retinal exudates
+03735 Serous retinal detachment
+03736 cyanopsia
+03737 edema mucosal
+03738 Sudden Hearing Loss
+03739 transient headache
+03740 DDD
+03741 meningocele
+03742 omphalocele
+03743 cryptorchidism
+03744 hydrocele
+03745 Wiedemann Syndrome
+03746 mouth Tingling
+03747 Osteolytic Lesions
+03748 hypocalcemic tetany
+03749 rhinitis ulcerative
+03750 nasal mucosal erythema
+03751 nasal odor
+03752 vein discoloration
+03753 spleen disorder
+03754 ocular hypotony
+03755 hepatic fibrosis
+03756 strongyloidiasis
+03757 Decreased white blood cell counts
+03758 HIV positive
+03759 Pneumocystis carinii infection
+03760 implantation complication
+03761 benign female breast neoplasm
+03762 hernia congenital
+03763 GI neoplasm benign
+03764 pancreatic carcinoma
+03765 peptic ulcer bleeding
+03766 papulopustular rash
+03767 Local Throat Irritation
+03768 xanthomatosis
+03769 abnormal electroretinogram
+03770 Sepsis secondary
+03771 Catheter Sepsis
+03772 localized rash
+03773 acute pain
+03774 peripheral arterial disease
+03775 retinal artery embolus
+03776 skin reaction localized
+03777 couplets
+03778 idioventricular rhythm
+03779 monomorphic ventricular tachycardia
+03780 breath holding
+03781 Breathholding
+03782 infected cyst
+03783 Anaplastic thyroid cancer
+03784 aggravated Parkinsonism
+03785 intervertebral disc degeneration
+03786 GIST
+03787 pelvic peritoneal adhesions
+03788 salivary duct obstruction
+03789 rectal carcinoma
+03790 prostate adenocarcinoma
+03791 adhesions
+03792 migraine with aura
+03793 malignant endometrial neoplasm
+03794 rotator cuff syndrome
+03795 malignant laryngeal neoplasm
+03796 Abdominal adhesions
+03797 actinic keratoses
+03798 therapeutic response increased
+03799 Nerve Root Lesion
+03800 sacroiliitis
+03801 dermoid cyst
+03802 peritoneal adhesions
+03803 endometrial neoplasm
+03804 angiomyolipoma
+03805 ischemic hepatitis
+03806 middle ear effusion
+03807 aseptic necrosis bone
+03808 subdural effusion
+03809 Gastaut syndrome
+03810 keratosis pilaris
+03811 corneal irritation
+03812 Gastroenteritis Acute
+03813 ochronosis
+03814 peanut allergies
+03815 myringitis
+03816 acute phase reaction
+03817 distended bladder
+03818 muscarinic effects
+03819 cholinergic crisis
+03820 skipped beats
+03821 hand edema
+03822 diabetic coma
+03823 stuttering
+03824 parapsoriasis varioliformis
+03825 congenital neutropenia
+03826 parapsoriasis
+03827 subglottic edema
+03828 swelling knee
+03829 neurologic reaction
+03830 post traumatic pain
+03831 Headache occurring
+03832 APL
+03833 Infantile acne
+03834 fluid and electrolyte imbalance
+03835 withdrawal syndrome neonatal
+03836 gingival ulceration
+03837 Brugada Syndrome
+03838 enlargement of the blind spot
+03839 salty taste
+03840 nontoxic goiter
+03841 coarse tremors
+03842 xerosis cutis
+03843 Euthyroid goiter
+03844 Relapsing fever
+03845 eosinophiluria
+03846 Borrelia
+03847 prostration
+03848 Increased pulmonary vascular resistance
+03849 increased albumin
+03850 Abnormal eye movements
+03851 dysdiadochokinesis
+03852 encopresis
+03853 hunger abnormal
+03854 ejaculation decreased
+03855 HAM
+03856 sneezing excessive
+03857 pain ankle
+03858 autonomic dysfunction
+03859 tetanuslike
+03860 tetanus
+03861 hypersplenism
+03862 explosive personality disorder
+03863 embolism limb
+03864 atrial hypertrophy
+03865 arterial embolism
+03866 carotid bruit
+03867 CNS infections
+03868 Obsessive reaction
+03869 Balance difficulty
+03870 blood pressure diastolic increased
+03871 vascular graft occlusion
+03872 Herpes Simplex Dermatitis
+03873 White blood cell count abnormal
+03874 reversible ischaemic neurological deficit
+03875 Drug effect decreased
+03876 tactile hallucinations
+03877 asthma bronchitis
+03878 Pregnancy Disorder
+03879 vaginal spotting
+03880 chondrocalcinosis pyrophosphate
+03881 del
+03882 pseudomonas infections
+03883 aortic disorder
+03884 warm type hemolytic anemia
+03885 infection Klebsiella
+03886 Primary hypothyroidism
+03887 refractory anemia
+03888 gouty arthritis
+03889 Cataract Unilateral
+03890 calculus ureteric
+03891 periarthritis
+03892 dyssomnia
+03893 bone lesions
+03894 gangrenous cholecystitis
+03895 dwarfism
+03896 Hypervitaminosis D
+03897 vascular calcification
+03898 mental retardation
+03899 acute adrenal insufficiency
+03900 Adrenal hemorrhage
+03901 vitamin D deficiency
+03902 telogen effluvium
+03903 emotional problems
+03904 renovascular
+03905 renovascular hypertension
+03906 cataplexy
+03907 bloodshot eyes
+03908 loss of speech
+03909 hyponatremic
+03910 Intracardiac thrombus
+03911 retinal damage
+03912 aminoaciduria
+03913 insulinomas
+03914 proximal renal tubular acidosis
+03915 insulin shock
+03916 alcoholic pancreatitis
+03917 Weakness in extremity
+03918 increased serum bicarbonate
+03919 mediastinitis
+03920 Staphylococcus aureus bacteremia
+03921 Normal CPK
+03922 hepatocellular jaundice
+03923 Polyarthropathy
+03924 menstrual spotting
+03925 sense of oppression
+03926 fatigability
+03927 stressed
+03928 fibrinogen increased
+03929 progressive supranuclear palsy
+03930 hyaline casts
+03931 normochromic anemia
+03932 empiric therapy
+03933 spondylosis
+03934 Prostate pain
+03935 increased urine specific gravity
+03936 Pelvic fibrosis
+03937 injection site abscess sterile
+03938 Rectal fistula
+03939 Pleural rub
+03940 Feet burning
+03941 muscle tenderness
+03942 Ruptured aortic aneurysm
+03943 primary insomnia
+03944 Melanonychia
+03945 Male genital pain
+03946 genital pain
+03947 hepatic echinococcosis
+03948 atypical mycobacterial infection
+03949 mantle cell lymphoma
+03950 implant infection
+03951 venous pressure increased
+03952 infectious endocarditis
+03953 Hepatic Transplant Rejection
+03954 negative pregnancy test
+03955 facial paresthesia
+03956 meas
+03957 nipple tenderness
+03958 Essential Thrombocythemia
+03959 shock hemorrhagic
+03960 bilirubin unconjugated increased
+03961 bladder diverticulum
+03962 frozen shoulder
+03963 Oral fungal infection NOS
+03964 hemangiosarcoma
+03965 ectromelia
+03966 astrocytoma
+03967 phosphenes
+03968 dry hair
+03969 dermoid cyst of the ovary
+03970 posterior vitreous detachment
+03971 tongue carcinoma
+03972 hemimelia
+03973 renal cell carcinoma
+03974 ovarian hemorrhage
+03975 hepatic hemangiosarcoma
+03976 tubal pregnancy
+03977 hepatoblastoma
+03978 choriocarcinoma
+03979 glioblastoma
+03980 ovarian tumors
+03981 neurofibromatosis
+03982 neuroectodermal tumor
+03983 abnormal bone development
+03984 renal agenesis
+03985 imperforate anus
+03986 amelia
+03987 congenital absence
+03988 glioblastoma multiforme
+03989 mitochondrial toxicity
+03990 acrocyanosis
+03991 inability to walk
+03992 Reye syndrome
+03993 glomerular filtration rate decreased
+03994 Clenching teeth
+03995 bacterial pneumonia
+03996 pupillary disorder
+03997 sudden loss of vision
+03998 blackwater fever
+03999 carbohydrate craving
+04000 idiopathic thrombocytopenia
+04001 jaw stiffness
+04002 perception disturbance
+04003 subclinical hypothyroidism
+04004 mucosal dryness
+04005 splinter hemorrhages
+04006 thyrotoxicosis
+04007 ischemic cardiomyopathy
+04008 digoxin levels
+04009 Costovertebral angle tenderness
+04010 biliary peritonitis
+04011 unilateral blindness
+04012 clouding of sensorium
+04013 lipogranuloma
+04014 inferior vena cava obstruction
+04015 lymphatic obstruction
+04016 toxic delirium
+04017 palilalia
+04018 ankylosing spondylitis
+04019 spondylitis
+04020 Gas pain
+04021 decreased forced expiratory volume
+04022 pigment deposits lens
+04023 Articulation impairment
+04024 normal triglyceride
+04025 deposits lens
+04026 tartar
+04027 teeth pain
+04028 zinc deficiency
+04029 Breast neoplasm malignant female
+04030 abnormal glucose tolerance
+04031 nicotinic effects
+04032 hepatic cyst
+04033 vulvovaginal candidiasis
+04034 Male Breast Cancer
+04035 endometrial adenocarcinoma
+04036 uterine sarcoma
+04037 endometrial polyps
+04038 community acquired pneumonia
+04039 moniliasis genital female
+04040 fat necrosis
+04041 myasthenia gravislike syndrome
+04042 paresthesia of an extremity
+04043 labial edema
+04044 decrease in serum uric acid
+04045 acute female mastitis
+04046 flashbacks
+04047 device complication
+04048 kidney carcinoma
+04049 Pleural infection NOS
+04050 uterine pain
+04051 Family Stress
+04052 Vaginal neoplasm benign
+04053 Vulva discomfort
+04054 Vaginitis ulcerative
+04055 breast malformation
+04056 Thrombophlebitis leg superficial
+04057 contact lens intolerance
+04058 toxic shock syndrome
+04059 recurrent pneumonia
+04060 nerve pain
+04061 Lockjaw
+04062 Candida intertrigo
+04063 cholinesterase deficiency
+04064 small cell lung cancer
+04065 atrophic glossitis
+04066 disorder neonatal
+04067 vomiting neonatal
+04068 BUN decreased
+04069 hypoglycaemia neonatal
+04070 Neonatal infection
+04071 fever neonatal
+04072 bradycardia foetal
+04073 salmonella sepsis
+04074 plasma osmolality
+04075 variegate porphyria
+04076 enzyme induction
+04077 photoallergic dermatitis
+04078 lipidosis
+04079 Pneumocystis jiroveci pneumonia
+04080 anophthalmia
+04081 hepatitis C antibody positive
+04082 purple toes syndrome
+04083 protein losing gastroenteropathy
+04084 platelet aggregation abnormal
+04085 diastolic dysfunction
+04086 pulmonary arterial hypertension
+04087 urticaria vesiculosa
+04088 milia
+04089 systemic lupus erythematosus rash
+04090 abdominal hematoma
+04091 burning lips
+04092 festination
+04093 drug administration error
+04094 ventricular hypokinesia
+04095 malignant hypertension
+04096 skin maceration
+04097 arm swelling
+04098 comedones
+04099 synostosis
+04100 head titubation
+04101 posture abnormal
+04102 acute mania
+04103 titubation
+04104 chronic schizophrenic
+04105 Automatism
+04106 otitis media chronic
+04107 osteodystrophy
+04108 trigeminy
+04109 oscillopsia
+04110 lumbar disc lesion
+04111 ischial neuralgia
+04112 cholestatic liver disease
+04113 acne fulminans
+04114 eruptive xanthomas
+04115 exuberant granulation tissue
+04116 nail dystrophy
+04117 nasal Infection
+04118 Persistent dry cough
+04119 Diabetic vascular disease
+04120 Neuroblastoma
+04121 corneal scar
+04122 staggering gait
+04123 Post procedural diarrhea
+04124 Malignant Neoplasm Aggravated
+04125 Aspirin Sensitive Asthma
+04126 hypocapnia
+04127 canaliculitis
+04128 toxic granulation
+04129 DPD deficiency
+04130 biliary sclerosis
+04131 penile infection
+04132 food intolerance
+04133 calcaneal spur
+04134 chest mass
+04135 psychogenic disorder
+04136 neck edema
+04137 ocular surface disease
+04138 Pregnancy Complication
+04139 maternal diabetes
+04140 Injection site nodule
+04141 infective myositis
+04142 cholangiocarcinoma
+04143 T cell lymphoma
+04144 nasopharyngeal carcinoma
+04145 anal cancer
+04146 viral meningitis
+04147 squamous cell carcinoma of skin
+04148 tongue neoplasm
+04149 endocrine neoplasms malignant
+04150 histiocytic lymphoma
+04151 Genital Warts
+04152 depersonalization syndrome
+04153 toxic myopathy
+04154 bullous lichen planus
+04155 Nephrogenic Systemic Fibrosis
+04156 encephalocele
+04157 increased mean corpuscular volume
+04158 mucous membrane swelling
+04159 genital malformation
+04160 acquired megacolon
+04161 placental disorder
+04162 malignant histiocytosis
+04163 histiocytosis
+04164 alcohol craving
+04165 PNE
+04166 Leg Rash
+04167 idiopathic pulmonary fibrosis
+04168 pneumoconiosis
+04169 erythema annulare
+04170 central scotoma
+04171 nerve deafness
+04172 erythema annulare centrifugum
+04173 inferior myocardial infarction
+04174 congenital oral malformation
+04175 Postictal state
+04176 vesicoureteric reflux
+04177 renal aplasia
+04178 delayed puberty
+04179 congenital hemangioma
+04180 Croup
+04181 low set ears
+04182 myoclonic seizures
+04183 developmental coordination disorder
+04184 limb reduction defect
+04185 hamartomas
+04186 retinal atrophy
+04187 dysmorphism
+04188 dentofacial anomaly
+04189 limb malformation
+04190 hip dysplasia
+04191 chronic constipation
+04192 detrusor hyperreflexia
