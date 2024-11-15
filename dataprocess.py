@@ -179,28 +179,29 @@ def matrix_hang_lie_name():
 
     print("已保存 protein_disease.csv")
 
-# 指定保留的药物编号
-drug_ids_to_keep = {'DB00375', 'DB00994', 'DB01258'}
+def filter_DrugID_without_smiles():
+    # 定义药物编号
+    drug_ids = ['DB00375', 'DB00994', 'DB01258']
+    # 要处理的文件列表
+    files = ['mat_data/drug_association/drug_disease.csv',
+             'mat_data/drug_association/drug_drug.csv',
+             'mat_data/drug_association/drug_protein.csv',
+             'mat_data/drug_association/drug_se.csv',
+             'mat_data/protein_association/protein_drug.csv']
+    for file in files:
+        # 读取 CSV 文件为 DataFrame
+        df = pd.read_csv(file, index_col=0)
 
+        # 行过滤：删除行索引与药物编号匹配的行
+        df = df[~df.index.isin(drug_ids)]
 
-# 定义一个函数来处理矩阵文件
-def filter_matrix_file(file_path, axis, drug_ids_to_keep):
-    # 读取文件
-    df = pd.read_csv(file_path, index_col=0)
+        # 列过滤：删除列名称与药物编号匹配的列
+        df = df.loc[:, ~df.columns.isin(drug_ids)]
 
-    # 根据 axis 参数决定是过滤行还是列
-    if axis == 'index':
-        # 过滤行
-        df_filtered = df.loc[df.index.isin(drug_ids_to_keep)]
-    elif axis == 'columns':
-        # 过滤列
-        df_filtered = df.loc[:, df.columns.isin(drug_ids_to_keep)]
-    else:
-        raise ValueError("Axis must be 'index' or 'columns'")
+        # 将过滤后的 DataFrame 写回文件
+        df.to_csv(file)
 
-    # 保存过滤后的数据
-    df_filtered.to_csv(file_path)
-    print(f"处理完成：{file_path}")
+    print("处理完成，相关行和列已删除。")
 
 
 if __name__ == '__main__':
@@ -210,6 +211,7 @@ if __name__ == '__main__':
     # process_SMILES_csv()
     # check_db_existence('davis/CIDDB.txt', 'mat_data/ID_drug.txt')
     # drug_smiles()
-    matrix_hang_lie_name()
+    # matrix_hang_lie_name()
     # disease_ID()
     # without_DBID()
+    filter_DrugID_without_smiles()
