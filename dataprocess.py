@@ -103,6 +103,41 @@ def calculate_jaccard_similarity_for_protein_interactions():
     # 将相似性矩阵保存到文件
     similarity_matrix.to_csv('sim_network/protein_sim/protein_protein_sim.csv')
 
+# 药物-疾病关联、药物-副作用关联、蛋白质-疾病关联
+def compute_jaccard_similarity_for_drug_disease():
+    # 读取CSV文件，第一列是药物编号，第一行是疾病编号
+    df = pd.read_csv('mat_data/protein_association/protein_disease.csv', index_col=0)
+
+    # 获取药物编号列表
+    drug_ids = df.index.tolist()
+
+    # 初始化相似度矩阵
+    similarity_matrix = pd.DataFrame(index=drug_ids, columns=drug_ids, dtype=float)
+
+    # 构建每个药物对应的疾病集合
+    disease_sets = {drug_id: set(df.columns[df.loc[drug_id] == 1].tolist()) for drug_id in drug_ids}
+
+    # 计算Jaccard相似度
+    for i, drug_i in enumerate(drug_ids):
+        for j, drug_j in enumerate(drug_ids):
+            if i <= j:  # 只计算上三角矩阵，避免重复计算
+                set_i = disease_sets[drug_i]
+                set_j = disease_sets[drug_j]
+
+                # 计算 Jaccard 系数
+                intersection = len(set_i & set_j)
+                union = len(set_i | set_j)
+
+                # 处理空集的情况，避免除以零
+                jaccard_index = intersection / union if union != 0 else 0
+
+                # 更新相似度矩阵
+                similarity_matrix.loc[drug_i, drug_j] = jaccard_index
+                similarity_matrix.loc[drug_j, drug_i] = jaccard_index  # 利用对称性
+
+    # 将相似度矩阵保存为 CSV 文件，包含行列名
+    similarity_matrix.to_csv('sim_network/protein_sim/protein_disease_sim.csv', index=True, header=True)
+
 
 if __name__ == '__main__':
     # os.remove('mat_data/mat_drug_protein_remove_homo.txt')
@@ -117,6 +152,6 @@ if __name__ == '__main__':
     ]
     """
     # calculate_jaccard_similarity_for_drug_interactions()
-    calculate_jaccard_similarity_for_protein_interactions()
-
+    # calculate_jaccard_similarity_for_protein_interactions()
+    compute_jaccard_similarity_for_drug_disease()
 
