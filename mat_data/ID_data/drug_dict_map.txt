@@ -364,7 +364,6 @@ DB00371:Meprobamate
 DB00372:Thiethylperazine
 DB00373:Timolol
 DB00374:Treprostinil
-DB00375:Colestipol
 DB00376:Trihexyphenidyl
 DB00377:Palonosetron
 DB00378:Dydrogesterone
@@ -980,7 +979,6 @@ DB00990:Exemestane
 DB00991:Oxaprozin
 DB00992:Methyl aminolevulinate
 DB00993:Azathioprine
-DB00994:Neomycin
 DB00995:Auranofin
 DB00996:Gabapentin
 DB00997:Doxorubicin
@@ -1242,7 +1240,6 @@ DB01254:Dasatinib
 DB01255:Lisdexamfetamine
 DB01256:Retapamulin
 DB01257:Eculizumab
-DB01258:Aliskiren
 DB01259:Lapatinib
 DB01260:Desonide
 DB01261:Sitagliptin

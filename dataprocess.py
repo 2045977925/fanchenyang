@@ -183,11 +183,7 @@ def filter_DrugID_without_smiles():
     # 定义药物编号
     drug_ids = ['DB00375', 'DB00994', 'DB01258']
     # 要处理的文件列表
-    files = ['mat_data/drug_association/drug_disease.csv',
-             'mat_data/drug_association/drug_drug.csv',
-             'mat_data/drug_association/drug_protein.csv',
-             'mat_data/drug_association/drug_se.csv',
-             'mat_data/protein_association/protein_drug.csv']
+    files = ['mat_data/ID_data/ID_drug.txt']
     for file in files:
         # 读取 CSV 文件为 DataFrame
         df = pd.read_csv(file, index_col=0)
@@ -203,6 +199,20 @@ def filter_DrugID_without_smiles():
 
     print("处理完成，相关行和列已删除。")
 
+def remove_drug_ids():
+    # 要删除的药物编号
+    drug_ids = ['DB00375', 'DB00994', 'DB01258']
+    # 读取文件内容
+    with open('mat_data/ID_data/drug_dict_map.txt', 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+    # 过滤掉包含特定药物编号的行
+    lines = [line for line in lines if not any(drug_id in line for drug_id in drug_ids)]
+
+    # 将过滤后的内容写回文件
+    with open('mat_data/ID_data/drug_dict_map.txt', 'w', encoding='utf-8') as file:
+        file.writelines(lines)
+
 
 if __name__ == '__main__':
     # drug_in_hetero()
@@ -214,4 +224,5 @@ if __name__ == '__main__':
     # matrix_hang_lie_name()
     # disease_ID()
     # without_DBID()
-    filter_DrugID_without_smiles()
+    # filter_DrugID_without_smiles()
+    remove_drug_ids()
